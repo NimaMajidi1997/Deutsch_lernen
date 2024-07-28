@@ -32,6 +32,6 @@ def read_and_cluster(file_number, lines_per_group=20):
         os.system(command)
 
 if __name__ == "__main__":
-    number = int(input("Enter the lesson number: "))
+    number = int(input("Enter the lesson number: (e.g. 19) "))
     read_and_cluster(number)
 
