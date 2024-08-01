@@ -10,20 +10,19 @@ Geräuschermacher: Noise maker
 Handwerker:  Craftsman
 Filmgeräusche: Film sounds
 beeindruckend: awesome, impressive
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Zuschauer: Spectator
+Werkzeugen: Tools
+Hörerlebnis: Listening experience
+Kinobesuch: English visit to the cinema
+Filmgeschichte: Film history
+entstanden: Originated ("entstehen")("ist entstanden")
+nötig: Necessary
+Toningenieur: Toningenieur
+verantwortlich: Responsible
+künstler: Artist
+verwenden: To use
+Handlung: Plot
+schritte: Steps
 
 
 
