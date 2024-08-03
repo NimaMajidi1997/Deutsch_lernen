@@ -15,23 +15,27 @@ def read_and_cluster(lesson_number, lines_per_group=20):
 
     with open(filename, 'r', encoding='utf-8') as file:
         lines = file.readlines()
-    
-    lines = [line.replace('\n', '') for line in lines]
 
-    # Cluster lines
-    clusters = [lines[i:i + lines_per_group] for i in range(0, len(lines), lines_per_group)]
+    lines = [line.split('#')[0].strip() for line in lines]
 
     clusters = [''.join(lines[i:i + lines_per_group]) for i in range(0, len(lines), lines_per_group)]
+    cluster_txt = [cluster.replace('.', '. \n') for cluster in clusters]
+    cluster_audio = [cluster.replace('.', '. ') for cluster in clusters]
 
-    # Print clusters (or you can process them as needed)
-    for i, cluster in enumerate(clusters):
+    for i, cluster in enumerate(cluster_txt):
         print(f"Group {i + 1}:")
         print(cluster)
-        print("\n---\n")
-        command = f'tts --text "{cluster}" --model_name "tts_models/de/thorsten/vits" --out_path "L{lesson_number}/Group_{i+1}.wav"'
+        print("---")
+        with open( f'Review/L{lesson_number}_{i+1}.txt', 'w', encoding='utf-8') as file:
+                file.write(cluster)
+
+    for i, cluster in enumerate(cluster_audio):
+
+        command = f'tts --text "{cluster}" --model_name "tts_models/de/thorsten/vits" --out_path "Review/L{lesson_number}_{i+1}.wav"'
         os.system(command)
+        print(f'---- \nL{lesson_number}_{i+1}.wav generated ! \n')
 
 if __name__ == "__main__":
-    number = int(input("Enter the lesson number: (e.g. 19) "))
+    number = int(input("Enter the lesson number: (e.g. 19) \n"))
     read_and_cluster(number)
 

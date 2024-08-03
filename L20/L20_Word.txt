@@ -23,8 +23,30 @@ künstler: Artist
 verwenden: To use
 Handlung: Plot
 schritte: Steps
-
-
+Klang: sound
+niemals: Never
+konzentriert (sich): Concentrated ("konzentrieren")
+Geräusche: Sounds
+zuerst: First
+gestellt: Placed/ asked ("gestellen")("hat gestellt")  
+wirkung: Effect
+fertiegen: To manufacture/To make
+verlassen: To leave
+komplizierte: ("komplizieren")("hat kompliziert") Complicated
+erledigen: To accomplish/To complete
+Zeitungen: Newspapers
+Gegenstände: Objects
+Kokosnüsse: Coconuts
+Lippen: Lips
+Filmgeschäft: Film industry
+Aktionszene: Action scene
+Zeichentrickfiguren:  Cartoon characters
+unmögliche: Impossible
+achten: To pay attention
+erraten: To guess
+Fabrik: Factory
+spiegeleier: Fried eggs
+braten: To fry/To roast
 
 
 
