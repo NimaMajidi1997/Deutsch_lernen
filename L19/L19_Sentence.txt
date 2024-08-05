@@ -46,8 +46,8 @@ Er versucht, das Projekt abzuschließen.
 Wir müssen es schaffen.
 Es hat mir gezeigt, dass man es schaffen kann.
 Dieser Lebensabschnitt war sehr aufregend.
-Ich habe mich anders entschlossen.
-Er fühlt sich aus der Gruppe ausgeschlossen.
+Ich habe mich anders entschlossen. #(I have changed my mind.)
+Er fühlt sich aus der Gruppe ausgeschlossen. #(He feels excluded from the group.)
 Hast du überhaupt verstanden, was er sagte?
 Das war ein riesiger Erfolg.
 Er hat seinen Hund mitgenommen.
@@ -56,3 +56,4 @@ Tom brauchte Hoffnung.
 Ich musste meinen alten Fernseher weggeben.
 Die Preise sind dieses Jahr gestiegen.
 Sie sind in eine neue Wohnung gezogen.
+Er hofft, die Prüfung zu schaffen. #(He hopes to pass the exam.)

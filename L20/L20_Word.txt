@@ -47,8 +47,15 @@ erraten: To guess
 Fabrik: Factory
 spiegeleier: Fried eggs
 braten: To fry/To roast
-
-
+bringen: ("hat gebracht")
+Rennen: run
+atmen: breath 
+wirft: Throws ("werfen") ("hat geworfen")
+ab·heben: Withdraw ("hat abgehoben")
+schlagen: hit ("hat geschlagen")
+Geburtstagstorte: birthday cake
+aus·blasen: puff out("hat ausgeblasen")
+Kerze: candle
 
 stumm + der Film --> der Stummfilm
 der Film + die Aufführung --> die Filmaufführung
