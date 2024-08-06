@@ -56,6 +56,24 @@ schlagen: hit ("hat geschlagen")
 Geburtstagstorte: birthday cake
 aus·blasen: puff out("hat ausgeblasen")
 Kerze: candle
+fallen: ("ist gefallen")
+Boden: Floor/Ground
+aufschlägt: Hits
+Plastikfolie: Plastic wrap
+zerdückt: Crushed ("zerdrücken")("hat zerdrückt")
+Kamin: Fireplace
+brennt: burn ("brennen")("hat gebrannt")
+Weintrauben: Grapes
+Lederhandschuhe: Leather gloves
+hintereinander: In a row
+hohe: High
+Gebäude: building
+wertvoll: valuable
+Regentropfen: Raindrops
+Tonbänder: Tape recordings
+
+
+
 
 stumm + der Film --> der Stummfilm
 der Film + die Aufführung --> die Filmaufführung
