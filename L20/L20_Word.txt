@@ -71,9 +71,23 @@ Gebäude: building
 wertvoll: valuable
 Regentropfen: Raindrops
 Tonbänder: Tape recordings
+Ermäßigung: Discount
+Eintrittskarte: Admission ticket
+reiten und springen: To ride (a horse) and To jump
+ernähren: To nourish / To feed
+erholen (sich): To recover / To relax
+Reitstunden:  Riding lessons
+faulenzen: To laze around / To lounge
 
 
 
 
+
+
+
+Wie kommt man am schnellsten vom Flughafen in die Stadt?
+Indem man die U-Bahn nimmt.
+
+indem sie ganz einfache Werkzeuge verwenden.
 stumm + der Film --> der Stummfilm
 der Film + die Aufführung --> die Filmaufführung
