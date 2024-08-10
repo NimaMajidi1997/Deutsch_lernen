@@ -88,13 +88,13 @@ Unfall: Accident
 Chemiefabrik: Chemical factory
 Psychisch: Psychological
 Krankheit: Illness / Disease
+merkwürdige: Strange / Odd
+Schließlich: Finally / Eventually
+Zweifel: Doubt
+geschehen: To happen / To occur
 
 offenbar:
-geschehen: 
-merkwürdige:
 leidet:
-Zweifel:
-Schließlich:
 Beziehung:
 
 

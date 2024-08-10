@@ -68,3 +68,11 @@ Wegen seiner Schlafstörungen konnte er die ganze Nacht nicht gut schlafen. #(Be
 Die Chemiefabrik produziert täglich verschiedene Reinigungsmittel. #(The chemical factory produces various cleaning products daily.)
 Nach dem Unfall mussten die beschädigten Autos brennt werden.
 Die psychische Krankheit beeinflusst sein tägliches Leben #(affects)
+Er hat eine merkwürdige Nachricht erhalten.
+He finally found the solution to the problem.
+Er hatte Zweifel, ob er die richtige Entscheidung getroffen hatte. #(He had doubts about whether he made the right decision.)
+Es wird spannend sein zu sehen, was als nächstes geschehen wird. #(It will be exciting to see what happens next.)
+
+
+
+
