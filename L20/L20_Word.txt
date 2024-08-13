@@ -1,4 +1,5 @@
-Erinnern (sich): To remember
+  
+  x   Erinnern (sich): To remember
 Kinderwagen: Stroller
 Zelten: To camp
 Aufgepasst: take care
@@ -92,9 +93,19 @@ merkwürdige: Strange / Odd
 Schließlich: Finally / Eventually
 Zweifel: Doubt
 geschehen: To happen / To occur
-offenbar: Apparently / Evidently
+offenbar: Apparently
 Beziehung: Relationship
 leidet: Suffers ("hat gelitten")
+
+
+
+
+begesitert: Excited 
+witzig: Funny 
+unsichtbar: Invisible
+Heimatfilm:
+Sehenswürdigkeiten: Sights / Attractions
+Streit: Argument / Conflict
 
 
 

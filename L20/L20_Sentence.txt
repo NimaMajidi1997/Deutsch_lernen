@@ -74,3 +74,10 @@ Es wird spannend sein zu sehen, was als nächstes geschehen wird. #(It will be e
 Offenbar hat er das Treffen vergessen.
 Ihre Beziehung wurde mit der Zeit stärker. #(Their relationship grew stronger over time.)
 Sie leidet unter starken Kopfschmerzen.
+Manche Gefühle bleiben für andere unsichtbar. #(Some feelings remain invisible to others.)
+Dir Handlung ist witzig.
+Sie war begeistert von der Idee, ins Ausland zu reisen.
+Der Heimatfilm zeigte die Schönheit der bayerischen Alpen. #(The Heimatfilm showcased the beauty of the Bavarian Alps.)
+Im Heimatfilm gab es eine einfache Geschichte.
+Wir besuchten alle Sehenswürdigkeiten während unseres Urlaubs. #(We visited all the Attractions during our vacation.)
+Die beiden Freunde hatten einen Streit über den besten Weg zur Arbeit.
