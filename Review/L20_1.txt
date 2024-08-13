@@ -1,20 +1,20 @@
-Er konnte sich nicht an das Passwort erinnern. 
-Die Mutter schob den Kinderwagen durch den Park. 
-Wir gehen am Wochenende im Wald zelten. 
-Ich habe manchmal auf meinen Bruder aufgepasst. 
-Die Reise nach Japan war sehr aufregend. 
-Er konnte vor Mitternacht nicht einschlafen. 
-Die Aufführung des Schultheaters war beeindruckend. 
-Der Handwerker reparierte das kaputte Fenster. 
-Die Filmgeräusche wurden im Studio aufgenommen. 
-Der Handwerker brachte seine Werkzeuge mit. 
-Das Konzert war ein unvergessliches Hörerlebnis. 
-Unser Kinobesuch war sehr aufregend. 
-Dieser Film ist ein Meilenstein in der Filmgeschichte. 
-Es ist nötig, die Regeln zu befolgen. 
-Die Handlung des Buches ist sehr spannend. 
-Er erklärte die Schritte des Experiments. 
-Die Idee für das Projekt ist letztes Jahr entstanden. 
-Der Toningenieur war für den perfekten Klang verantwortlich. 
-Der Künstler arbeitete tagelang an seinem neuen Werk. 
-Lehrer verwenden oft visuelle Hilfsmittel im Unterricht. 
+* Er konnte sich nicht an das Passwort erinnern. 
+* Die Mutter schob den Kinderwagen durch den Park. 
+* Wir gehen am Wochenende im Wald zelten. 
+* Ich habe manchmal auf meinen Bruder aufgepasst. 
+* Die Reise nach Japan war sehr aufregend. 
+* Er konnte vor Mitternacht nicht einschlafen. 
+* Die Aufführung des Schultheaters war beeindruckend. 
+* Der Handwerker reparierte das kaputte Fenster. 
+* Die Filmgeräusche wurden im Studio aufgenommen. 
+* Der Handwerker brachte seine Werkzeuge mit. 
+* Das Konzert war ein unvergessliches Hörerlebnis. 
+* Unser Kinobesuch war sehr aufregend. 
+* Dieser Film ist ein Meilenstein in der Filmgeschichte. 
+* Es ist nötig, die Regeln zu befolgen. 
+* Die Handlung des Buches ist sehr spannend. 
+* Er erklärte die Schritte des Experiments. 
+* Die Idee für das Projekt ist letztes Jahr entstanden. 
+* Der Toningenieur war für den perfekten Klang verantwortlich. 
+* Der Künstler arbeitete tagelang an seinem neuen Werk. 
+* Lehrer verwenden oft visuelle Hilfsmittel im Unterricht. 

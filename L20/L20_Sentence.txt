@@ -67,14 +67,10 @@ Sie wäscht sich morgens das Gesicht mit kaltem Wasser.
 Wegen seiner Schlafstörungen konnte er die ganze Nacht nicht gut schlafen. #(Because of his sleep disturbances, he couldn’t sleep well all night.)
 Die Chemiefabrik produziert täglich verschiedene Reinigungsmittel. #(The chemical factory produces various cleaning products daily.)
 Nach dem Unfall mussten die beschädigten Autos brennt werden.
-Die psychische Krankheit beeinflusst sein tägliches Leben #(affects)
-Er hat eine merkwürdige Nachricht erhalten.
-He finally found the solution to the problem.
+Die psychische Krankheit beeinflusst sein tägliches Leben. #(affects)
+Er hat eine merkwürdige Nachricht erhalten. #(He has received a strange message.)
 Er hatte Zweifel, ob er die richtige Entscheidung getroffen hatte. #(He had doubts about whether he made the right decision.)
 Es wird spannend sein zu sehen, was als nächstes geschehen wird. #(It will be exciting to see what happens next.)
 Offenbar hat er das Treffen vergessen.
 Ihre Beziehung wurde mit der Zeit stärker. #(Their relationship grew stronger over time.)
 Sie leidet unter starken Kopfschmerzen.
-
-
-
