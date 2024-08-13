@@ -53,7 +53,7 @@ Das Gebäude hat eine hohes Fenster.
 Ich zerdrücke Plastikfolie mit den Fingern.
 Die Regentropfen fallen auf den Boden.
 Die alten Tonbänder enthalten wertvolle Aufnahmen. #(The old tape recordings contain valuable recordings.)
-Studenten bekommen eine Ermäßigung für die Eintrittskarte
+Studenten bekommen eine Ermäßigung für die Eintrittskarte.
 Er kaufte eine Eintrittskarte für das Konzert.
 Er nimmt jeden Samstag Reitstunden. #(He takes riding lessons every Saturday.)
 Sie ernähren die Tiere jeden Morgen.
@@ -72,7 +72,9 @@ Er hat eine merkwürdige Nachricht erhalten.
 He finally found the solution to the problem.
 Er hatte Zweifel, ob er die richtige Entscheidung getroffen hatte. #(He had doubts about whether he made the right decision.)
 Es wird spannend sein zu sehen, was als nächstes geschehen wird. #(It will be exciting to see what happens next.)
-
+Offenbar hat er das Treffen vergessen.
+Ihre Beziehung wurde mit der Zeit stärker. #(Their relationship grew stronger over time.)
+Sie leidet unter starken Kopfschmerzen.
 
 
 

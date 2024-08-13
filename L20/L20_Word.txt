@@ -92,15 +92,9 @@ merkwürdige: Strange / Odd
 Schließlich: Finally / Eventually
 Zweifel: Doubt
 geschehen: To happen / To occur
-
-offenbar:
-leidet:
-Beziehung:
-
-
-
-
-
+offenbar: Apparently / Evidently
+Beziehung: Relationship
+leidet: Suffers ("hat gelitten")
 
 
 
