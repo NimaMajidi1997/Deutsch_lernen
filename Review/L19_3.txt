@@ -1,19 +1,20 @@
-* Es ging bergab mit seiner Gesundheit. 
-* Sie hat uns die Fotos gezeigt. 
-* Der Schlüssel liegt unten. 
-* Es war ihm gelungen, sein Leben in den Griff zu bekommen. 
-* Er versucht, das Projekt abzuschließen. 
-* Wir müssen es schaffen. 
-* Es hat mir gezeigt, dass man es schaffen kann. 
-* Dieser Lebensabschnitt war sehr aufregend. 
-* Ich habe mich anders entschlossen. 
-* Er fühlt sich aus der Gruppe ausgeschlossen. 
-* Hast du überhaupt verstanden, was er sagte. 
-* Das war ein riesiger Erfolg. 
-* Er hat seinen Hund mitgenommen. 
-* Die Entscheidung ist endgültig. 
-* Tom brauchte Hoffnung. 
-* Ich musste meinen alten Fernseher weggeben. 
-* Die Preise sind dieses Jahr gestiegen. 
-* Sie sind in eine neue Wohnung gezogen. 
-* Er hofft, die Prüfung zu schaffen. 
+41: Er ging nach Hause. 
+42: Es ging bergab mit seiner Gesundheit. 
+43: Sie hat uns die Fotos gezeigt. 
+44: Der Schlüssel liegt unten. 
+45: Es war ihm gelungen, sein Leben in den Griff zu bekommen. 
+46: Er versucht, das Projekt abzuschließen. 
+47: Wir müssen es schaffen. 
+48: Es hat mir gezeigt, dass man es schaffen kann. 
+49: Dieser Lebensabschnitt war sehr aufregend. 
+50: Ich habe mich anders entschlossen. 
+51: Er fühlt sich aus der Gruppe ausgeschlossen. 
+52: Hast du überhaupt verstanden, was er sagte. 
+53: Das war ein riesiger Erfolg. 
+54: Er hat seinen Hund mitgenommen. 
+55: Die Entscheidung ist endgültig. 
+56: Tom brauchte Hoffnung. 
+57: Ich musste meinen alten Fernseher weggeben. 
+58: Die Preise sind dieses Jahr gestiegen. 
+59: Sie sind in eine neue Wohnung gezogen. 
+60: Er hofft, die Prüfung zu schaffen. 

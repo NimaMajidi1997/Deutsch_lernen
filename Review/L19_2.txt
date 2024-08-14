@@ -1,20 +1,20 @@
-* Als ich ein Kind war, spielte ich viel draußen. 
-* Als wir im Urlaub waren, besuchten wir viele Museen. 
-* Als sie nach Hause kam, begann es zu regnen. 
-* Ich rief ihn an, als ich die E-Mail las. 
-* Er war glücklich, als er die Nachricht hörte. 
-* Das Medikament wirkt schnell. 
-* Der Arzt stellte die Diagnose fest. 
-* Sie hält immer ihr Zimmer in Ordnung. 
-* Ich gehe regelmäßig joggen. 
-* Er besucht uns häufig. 
-* Die Antwort war eindeutig. 
-* Er hat es eindeutig gesagt. 
-* Er gab das Rauchen auf. 
-* Er hat großen Einfluss auf das Team. 
-* Er begleitet sie zum Arzt. 
-* Die Mühe hat sich gelohnt. 
-* Er ist schon einmal dort gewesen. 
-* Es war eine schwierige Aufgabe. 
-* Sie ist seit zwei Jahren geschieden. 
-* Er ging nach Hause. 
+21: Wenn er mein Fahrzeug beschädigt, schreie ich ihn an. 
+22: Als ich ein Kind war, spielte ich viel draußen. 
+23: Als wir im Urlaub waren, besuchten wir viele Museen. 
+24: Als sie nach Hause kam, begann es zu regnen. 
+25: Ich rief ihn an, als ich die E-Mail las. 
+26: Er war glücklich, als er die Nachricht hörte. 
+27: Das Medikament wirkt schnell. 
+28: Der Arzt stellte die Diagnose fest. 
+29: Sie hält immer ihr Zimmer in Ordnung. 
+30: Ich gehe regelmäßig joggen. 
+31: Er besucht uns häufig. 
+32: Die Antwort war eindeutig. 
+33: Er hat es eindeutig gesagt. 
+34: Er gab das Rauchen auf. 
+35: Er hat großen Einfluss auf das Team. 
+36: Er begleitet sie zum Arzt. 
+37: Die Mühe hat sich gelohnt. 
+38: Er ist schon einmal dort gewesen. 
+39: Es war eine schwierige Aufgabe. 
+40: Sie ist seit zwei Jahren geschieden. 

@@ -1,9 +1,26 @@
 import os
 import argparse
+from PIL import Image, ImageDraw, ImageFont
 
 # parser = argparse.ArgumentParser(description='Lektion nummer?')
 # parser.add_argument("Lektion_Nummer", help="Lektion?")
 # nummer = parser.parse_args().Lektion_Nummer 
+
+def create_flashcard(front, filename):
+    # Create a larger blank image with white background
+    img = Image.new('RGB', (1550, 600), color=(255, 255, 255))  # Increased resolution
+    d = ImageDraw.Draw(img)
+    
+    # Load a TTF font with a larger size
+    try:
+        #fnt = ImageFont.truetype("arial.ttf", 30)  # for windows
+        fnt = ImageFont.truetype("DejaVuSerif.ttf", 25) # for wsl/Ubuntu
+    except IOError:
+        fnt = ImageFont.load_default()
+        print('Default font used!')
+
+    d.text((30, 20), front, font=fnt, fill=(0, 0, 0))
+    img.save(filename)
 
 def read_and_cluster(lesson_number, lines_per_group=20):
     filename = f"L{lesson_number}/L{lesson_number}_Sentence.txt"
@@ -16,7 +33,7 @@ def read_and_cluster(lesson_number, lines_per_group=20):
     with open(filename, 'r', encoding='utf-8') as file:
         lines = file.readlines()
 
-    lines_txt = ['* ' + line for line in lines]
+    lines_txt = [f'{i+1}: ' + line for i, line in enumerate(lines)]
     lines_txt = [line.split('#')[0].strip() for line in lines_txt]
     clusters_txt = [''.join(lines_txt[i:i + lines_per_group]) for i in range(0, len(lines), lines_per_group)]
     cluster_txt = [cluster.replace('.', '. \n') for cluster in clusters_txt]
@@ -28,6 +45,7 @@ def read_and_cluster(lesson_number, lines_per_group=20):
     for i, cluster in enumerate(cluster_txt):
         print(f"Group {i + 1}:")
         print(cluster)
+        create_flashcard(cluster, f'Flashcards/L{lesson_number}_{i+1}.png')
         print("---")
         with open( f'Review/L{lesson_number}_{i+1}.txt', 'w', encoding='utf-8') as file:
                 file.write(cluster)

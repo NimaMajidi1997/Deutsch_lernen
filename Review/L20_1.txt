@@ -1,20 +1,20 @@
-* Er konnte sich nicht an das Passwort erinnern. 
-* Die Mutter schob den Kinderwagen durch den Park. 
-* Wir gehen am Wochenende im Wald zelten. 
-* Ich habe manchmal auf meinen Bruder aufgepasst. 
-* Die Reise nach Japan war sehr aufregend. 
-* Er konnte vor Mitternacht nicht einschlafen. 
-* Die Aufführung des Schultheaters war beeindruckend. 
-* Der Handwerker reparierte das kaputte Fenster. 
-* Die Filmgeräusche wurden im Studio aufgenommen. 
-* Der Handwerker brachte seine Werkzeuge mit. 
-* Das Konzert war ein unvergessliches Hörerlebnis. 
-* Unser Kinobesuch war sehr aufregend. 
-* Dieser Film ist ein Meilenstein in der Filmgeschichte. 
-* Es ist nötig, die Regeln zu befolgen. 
-* Die Handlung des Buches ist sehr spannend. 
-* Er erklärte die Schritte des Experiments. 
-* Die Idee für das Projekt ist letztes Jahr entstanden. 
-* Der Toningenieur war für den perfekten Klang verantwortlich. 
-* Der Künstler arbeitete tagelang an seinem neuen Werk. 
-* Lehrer verwenden oft visuelle Hilfsmittel im Unterricht. 
+1: Er konnte sich nicht an das Passwort erinnern. 
+2: Die Mutter schob den Kinderwagen durch den Park. 
+3: Wir gehen am Wochenende im Wald zelten. 
+4: Ich habe manchmal auf meinen Bruder aufgepasst. 
+5: Die Reise nach Japan war sehr aufregend. 
+6: Er konnte vor Mitternacht nicht einschlafen. 
+7: Die Aufführung des Schultheaters war beeindruckend. 
+8: Der Handwerker reparierte das kaputte Fenster. 
+9: Die Filmgeräusche wurden im Studio aufgenommen. 
+10: Der Handwerker brachte seine Werkzeuge mit. 
+11: Das Konzert war ein unvergessliches Hörerlebnis. 
+12: Unser Kinobesuch war sehr aufregend. 
+13: Dieser Film ist ein Meilenstein in der Filmgeschichte. 
+14: Es ist nötig, die Regeln zu befolgen. 
+15: Die Handlung des Buches ist sehr spannend. 
+16: Er erklärte die Schritte des Experiments. 
+17: Die Idee für das Projekt ist letztes Jahr entstanden. 
+18: Der Toningenieur war für den perfekten Klang verantwortlich. 
+19: Der Künstler arbeitete tagelang an seinem neuen Werk. 
+20: Lehrer verwenden oft visuelle Hilfsmittel im Unterricht. 

@@ -1,20 +1,20 @@
-* Sie konzentriert sich auf ihre Hausaufgaben. 
-* Zuerst müssen wir die Hausaufgaben machen. 
-* Der Lehrer hat eine schwierige Frage gestellt. 
-* Das Medikament hatte eine schnelle Wirkung. 
-* Die Fabrik fertigt täglich tausend Produkte. 
-* Er musste das Haus früh verlassen. 
-* Das war eine sehr komplizierte Aufgabe. 
-* Er liest jeden Morgen mehrere Zeitungen. 
-* Er arbeitet seit Jahren im Filmgeschäft. 
-* Die Aktionszene im Film war sehr spannend. 
-* Die Kinder lieben die Zeichentrickfiguren in der Show. 
-* Du solltest auf den Verkehr achten. 
-* Kannst du das komplizierte Rätsel erraten. 
-* Alle Gegenstände im Museum sind sehr wertvoll. 
-* Zum Frühstück esse ich gerne Spiegeleier. 
-* Ich atme durch die Nase. 
-* Er gewann das Rennen. 
-* Sina wirft Briefe in einen Briefkasten. 
-* Er zieht Vohänge zu. 
-* Sie zündet mit dem Streichholz eine Zigarette an. 
+21: Sie konzentriert sich auf ihre Hausaufgaben. 
+22: Zuerst müssen wir die Hausaufgaben machen. 
+23: Der Lehrer hat eine schwierige Frage gestellt. 
+24: Das Medikament hatte eine schnelle Wirkung. 
+25: Die Fabrik fertigt täglich tausend Produkte. 
+26: Er musste das Haus früh verlassen. 
+27: Das war eine sehr komplizierte Aufgabe. 
+28: Er liest jeden Morgen mehrere Zeitungen. 
+29: Er arbeitet seit Jahren im Filmgeschäft. 
+30: Die Aktionszene im Film war sehr spannend. 
+31: Die Kinder lieben die Zeichentrickfiguren in der Show. 
+32: Du solltest auf den Verkehr achten. 
+33: Kannst du das komplizierte Rätsel erraten. 
+34: Alle Gegenstände im Museum sind sehr wertvoll. 
+35: Zum Frühstück esse ich gerne Spiegeleier. 
+36: Ich atme durch die Nase. 
+37: Er gewann das Rennen. 
+38: Sina wirft Briefe in einen Briefkasten. 
+39: Er zieht Vorhänge zu. 
+40: Sie zündet mit dem Streichholz eine Zigarette an. 
