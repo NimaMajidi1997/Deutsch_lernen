@@ -96,16 +96,30 @@ geschehen: To happen / To occur
 offenbar: Apparently
 Beziehung: Relationship
 leidet: Suffers ("hat gelitten")
-
-
-
-
 begesitert: Excited 
 witzig: Funny 
 unsichtbar: Invisible
 Heimatfilm:
 Sehenswürdigkeiten: Sights / Attractions
 Streit: Argument / Conflict
+Brand: fire
+Bauernhof: Farm
+gestorben: Died ("sterben")("ist gestorben")
+schuld: Guilt / Fault
+beendet: Finished / Ended ("beenden") ("hat beendet")
+Rat: Advice
+behinderte: Disabled (people)
+Tod: Death
+vor.bereiten: To prepare
+gewöhnen: To get used to
+Heimweh: Homesickness
+unterhalten: To entertain
+inzwischen:  Meanwhile / In the meantime
+heimlich: Secretly
+zurückglassen: Left behind
+angenommen: Accepted / Assumed ("an·nehmen")("hat angenommen")
+sorgen: To care for ("hat gesorgt")
+
 
 
 
@@ -115,3 +129,7 @@ Indem man die U-Bahn nimmt.
 indem sie ganz einfache Werkzeuge verwenden.
 stumm + der Film --> der Stummfilm
 der Film + die Aufführung --> die Filmaufführung
+
+
+
+
