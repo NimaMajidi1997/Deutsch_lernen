@@ -119,6 +119,29 @@ heimlich: Secretly
 zurückglassen: Left behind
 angenommen: Accepted / Assumed ("an·nehmen")("hat angenommen")
 sorgen: To care for ("hat gesorgt")
+Geschäftsmann: Businessman
+erscheint: Appears 
+verlässt: leave ("verlassen")("hat verlassen")
+bequeme: Comfortable
+ärgert: Annoys / Angers ("ärgern")("hat geärgert")
+Empfang: Reception
+Tal: valley
+nun: Now 
+überzeugen: To convince / To persuade
+abzureisen: To depart / To leave (on a trip)
+Veranstaltung: Event 
+stören: To disturb / To bother
+auftauchen: To appear / To emerge
+werben: To advertise / To promote
+einig: United / In agreement
+Zorn: Anger
+fliehen: To escape
+
+
+
+
+
+
 
 
 

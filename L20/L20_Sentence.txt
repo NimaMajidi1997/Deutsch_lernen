@@ -99,3 +99,22 @@ Es wird angenommen, dass die Sonne sehr heiß ist.
 Er hat eine Stelle in Frankfurt angenommen.
 Er sorgt jeden Tag für seine kranke Mutter. #(He takes care of his sick mother every day.)
 Glücklich fällt Heidi ihrem Großvater in die Arme.
+Er erscheint immer pünktlich zu den Meetings.
+Der Geschäftsmann reist oft ins Ausland, um neue Geschäftspartner zu treffen.
+Sie verlässt das Haus jeden Morgen um 7 Uhr.
+Ich habe mir eine bequeme Couch für das Wohnzimmer gekauft.
+Der Empfang in diesem Hotel war sehr freundlich.
+Das Tal ist im Frühling besonders schön. #(The valley is especially beautiful in the spring.)
+Es ärgert ihn, wenn jemand unpünktlich ist.
+Nun ist es Zeit, mit der Arbeit zu beginnen.
+Er konnte seine Eltern davon überzeugen, ihm ein Auto zu kaufen. #(He was able to convince his parents to buy him a car.)
+Wir planen, morgen früh abzureisen.
+Die Veranstaltung beginnt um 18 Uhr.
+Bitte nicht stören, während ich arbeite. #(Please do not disturb me while I’m working.)
+Probleme könnten auftauchen, wenn wir den Plan ändern. #(Problems might emerge if we change the plan.)
+Er versucht, seine Fähigkeiten durch einen Online-Kurs zu werben. #(He is trying to promote his skills through an online course.)
+Sein Zorn war groß, als er die schlechte Nachricht hörte. #(His anger was great when he heard the bad news.)
+Die Familie musste vor dem Feuer aus ihrem Haus fliehen. #(The family had to flee from their house because of the fire.)
+Wir sind uns einig, dass das Meeting um 10 Uhr beginnen soll. #(We agree that the meeting should start at 10 am.)
+
+
