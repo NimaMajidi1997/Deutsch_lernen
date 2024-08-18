@@ -1,20 +1,20 @@
-61: Am Sonntag faulenzen wir oft im Garten. 
-62: Sie war sehr erfolgreich in ihrem neuen Job. 
-63: Das neue Restaurant ist bei den Leuten sehr beliebt. 
-64: Das Gegenteil von heiß ist kalt. 
-65: Das ist die reinste Form von Glück. 
-66: Sie wäscht sich morgens das Gesicht mit kaltem Wasser. 
-67: Wegen seiner Schlafstörungen konnte er die ganze Nacht nicht gut schlafen. 
-68: Die Chemiefabrik produziert täglich verschiedene Reinigungsmittel. 
-69: Nach dem Unfall mussten die beschädigten Autos brennt werden. 
-70: Die psychische Krankheit beeinflusst sein tägliches Leben. 
-71: Er hat eine merkwürdige Nachricht erhalten. 
-72: Er hatte Zweifel, ob er die richtige Entscheidung getroffen hatte. 
-73: Es wird spannend sein zu sehen, was als nächstes geschehen wird. 
-74: Offenbar hat er das Treffen vergessen. 
-75: Ihre Beziehung wurde mit der Zeit stärker. 
-76: Sie leidet unter starken Kopfschmerzen. 
-77: Manche Gefühle bleiben für andere unsichtbar. 
-78: Dir Handlung ist witzig. 
-79: Sie war begeistert von der Idee, ins Ausland zu reisen. 
-80: Der Heimatfilm zeigte die Schönheit der bayerischen Alpen. 
+121: Am Sonntag faulenzen wir oft im Garten. 
+122: Sie war sehr erfolgreich in ihrem neuen Job. 
+123: Das neue Restaurant ist bei den Leuten sehr beliebt. 
+124: Das Gegenteil von heiß ist kalt. 
+125: Das ist die reinste Form von Glück. 
+126: Sie wäscht sich morgens das Gesicht mit kaltem Wasser. 
+127: Wegen seiner Schlafstörungen konnte er die ganze Nacht nicht gut schlafen. 
+128: Die Chemiefabrik produziert täglich verschiedene Reinigungsmittel. 
+129: Nach dem Unfall mussten die beschädigten Autos brennt werden. 
+130: Die psychische Krankheit beeinflusst sein tägliches Leben. 
+131: Er hat eine merkwürdige Nachricht erhalten. 
+132: Er hatte Zweifel, ob er die richtige Entscheidung getroffen hatte. 
+133: Es wird spannend sein zu sehen, was als nächstes geschehen wird. 
+134: Offenbar hat er das Treffen vergessen. 
+135: Ihre Beziehung wurde mit der Zeit stärker. 
+136: Sie leidet unter starken Kopfschmerzen. 
+137: Manche Gefühle bleiben für andere unsichtbar. 
+138: Dir Handlung ist witzig. 
+139: Sie war begeistert von der Idee, ins Ausland zu reisen. 
+140: Der Heimatfilm zeigte die Schönheit der bayerischen Alpen. 

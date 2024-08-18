@@ -22,6 +22,14 @@ def create_flashcard(front, filename):
     d.text((30, 20), front, font=fnt, fill=(0, 0, 0))
     img.save(filename)
 
+def num_sentences():
+    total_number = []
+    with open('L19/L19_Sentence.txt', 'r') as file:
+        total_number.append(len(file.readlines()))
+    with open('L20/L20_Sentence.txt', 'r') as file:
+        total_number.append(len(file.readlines()))
+    return total_number
+
 def read_and_cluster(lesson_number, lines_per_group=20):
     filename = f"L{lesson_number}/L{lesson_number}_Sentence.txt"
     
@@ -33,7 +41,13 @@ def read_and_cluster(lesson_number, lines_per_group=20):
     with open(filename, 'r', encoding='utf-8') as file:
         lines = file.readlines()
 
-    lines_txt = [f'{i+1}: ' + line for i, line in enumerate(lines)]
+    sentences_number = num_sentences()
+    if lesson_number == 19:
+        j = 1
+    elif lesson_number == 20:
+        j = sentences_number[0]+1
+
+    lines_txt = [f'{j+i}: ' + line for i, line in enumerate(lines)]
     lines_txt = [line.split('#')[0].strip() for line in lines_txt]
     clusters_txt = [''.join(lines_txt[i:i + lines_per_group]) for i in range(0, len(lines), lines_per_group)]
     cluster_txt = [cluster.replace('.', '. \n') for cluster in clusters_txt]
@@ -58,4 +72,4 @@ def read_and_cluster(lesson_number, lines_per_group=20):
 if __name__ == "__main__":
     number = int(input("Enter the lesson number: (e.g. 19) \n"))
     read_and_cluster(number)
-
+    

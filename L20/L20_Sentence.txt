@@ -116,5 +116,3 @@ Er versucht, seine Fähigkeiten durch einen Online-Kurs zu werben. #(He is tryin
 Sein Zorn war groß, als er die schlechte Nachricht hörte. #(His anger was great when he heard the bad news.)
 Die Familie musste vor dem Feuer aus ihrem Haus fliehen. #(The family had to flee from their house because of the fire.)
 Wir sind uns einig, dass das Meeting um 10 Uhr beginnen soll. #(We agree that the meeting should start at 10 am.)
-
-

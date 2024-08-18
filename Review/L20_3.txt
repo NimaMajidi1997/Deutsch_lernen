@@ -1,20 +1,20 @@
-41: Meine Freundin hebt Geld von einem Geldautomaten ab. 
-42: Er föhnt sich die Haare. 
-43: Wie lange föhnst du deine Haare. 
-44: Er schlägt mit dem Hammer Nägel in die Wand. 
-45: Sie bläst Kerzen auf einer Geburtstagstorte aus. 
-46: wie klingt das wohl. 
-47: klingt wie ein Ei, das man an der Pfanne aufschlägt. 
-48: Der Kamin brennt an kalten Winterabenden. 
-49: Die Weintrauben sind süß und saftig. 
-50: Im Winter trage ich warme Lederhandschuhe. 
-51: Die Autos fahren hintereinander durch den Tunnel. 
-52: Das Gebäude hat eine hohes Fenster. 
-53: Ich zerdrücke Plastikfolie mit den Fingern. 
-54: Die Regentropfen fallen auf den Boden. 
-55: Die alten Tonbänder enthalten wertvolle Aufnahmen. 
-56: Studenten bekommen eine Ermäßigung für die Eintrittskarte. 
-57: Er kaufte eine Eintrittskarte für das Konzert. 
-58: Er nimmt jeden Samstag Reitstunden. 
-59: Sie ernähren die Tiere jeden Morgen. 
-60: Ich muss mich nach der Arbeit erholen. 
+101: Meine Freundin hebt Geld von einem Geldautomaten ab. 
+102: Er föhnt sich die Haare. 
+103: Wie lange föhnst du deine Haare. 
+104: Er schlägt mit dem Hammer Nägel in die Wand. 
+105: Sie bläst Kerzen auf einer Geburtstagstorte aus. 
+106: wie klingt das wohl. 
+107: klingt wie ein Ei, das man an der Pfanne aufschlägt. 
+108: Der Kamin brennt an kalten Winterabenden. 
+109: Die Weintrauben sind süß und saftig. 
+110: Im Winter trage ich warme Lederhandschuhe. 
+111: Die Autos fahren hintereinander durch den Tunnel. 
+112: Das Gebäude hat eine hohes Fenster. 
+113: Ich zerdrücke Plastikfolie mit den Fingern. 
+114: Die Regentropfen fallen auf den Boden. 
+115: Die alten Tonbänder enthalten wertvolle Aufnahmen. 
+116: Studenten bekommen eine Ermäßigung für die Eintrittskarte. 
+117: Er kaufte eine Eintrittskarte für das Konzert. 
+118: Er nimmt jeden Samstag Reitstunden. 
+119: Sie ernähren die Tiere jeden Morgen. 
+120: Ich muss mich nach der Arbeit erholen. 
