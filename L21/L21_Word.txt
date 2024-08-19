@@ -5,3 +5,10 @@ Mittagspause: Lunch break
 Tankstelle:  Gas station / Petrol station
 Fernsehapparat:  Television set
 Dachwohnung: Attic apartment
+besitze: Own 
+Sachen: Things / Stuff
+Bürostress: Office stress
+abhängig: Dependent / Addicted
+minimalistisch: Minimalistic
+Geduld: Patience
+Überstunden: Overtime
