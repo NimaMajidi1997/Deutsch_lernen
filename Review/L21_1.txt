@@ -1,19 +1,19 @@
-119: Wozu brauchst du so viele Bücher?120: Die neue Werbung im Fernsehen ist sehr kreativ. 
-121: Der Konsum von Fast Food ist in den letzten Jahren gestiegen. 
-122: In meiner Mittagspause gehe ich oft spazieren. 
-123: Die Tankstelle hat auch einen kleinen Laden. 
-124: Sie haben einen neuen Fernsehapparat für das Wohnzimmer gekauft. 
-125: Es kann im Sommer sehr heiß in einer Dachwohnung werden. 
-126: Ich besitze ein kleines Haus am See. 
-127: Ich habe meine Sachen gepackt und bin bereit zu gehen. 
-128: Sie erholt sich beim Einkaufen vom Bürostress. 
-129: Ein minimalistisches Leben kann Stress reduzieren. 
-130: Geduld ist wichtig, wenn man mit Kindern arbeitet. 
-131: Er hat diese Woche viele Überstunden gemacht. 
-132: Sie ist stark vom Kaffee abhängig und trinkt mehrere Tassen am Tag. 
-133: Ich war enttäuscht, als das Konzert abgesagt wurde. 
-134: Der Ordner auf meinem Schreibtisch ist sehr gut organisiert. 
-135: Bitte legen Sie keine schweren Gegenstände auf den Tisch. 
-136: Das neue Computerprogramm soll unsere Arbeit erleichtern. 
-137: Ein Vorteil dieser Wohnung ist, dass sie im Zentrum liegt. 
-138: Der Lehrer lobte die Schülerin für ihre gute Arbeit. 
+179: Wozu brauchst du so viele Bücher?180: Die neue Werbung im Fernsehen ist sehr kreativ. 
+181: Der Konsum von Fast Food ist in den letzten Jahren gestiegen. 
+182: In meiner Mittagspause gehe ich oft spazieren. 
+183: Die Tankstelle hat auch einen kleinen Laden. 
+184: Sie haben einen neuen Fernsehapparat für das Wohnzimmer gekauft. 
+185: Es kann im Sommer sehr heiß in einer Dachwohnung werden. 
+186: Ich besitze ein kleines Haus am See. 
+187: Ich habe meine Sachen gepackt und bin bereit zu gehen. 
+188: Sie erholt sich beim Einkaufen vom Bürostress. 
+189: Ein minimalistisches Leben kann Stress reduzieren. 
+190: Geduld ist wichtig, wenn man mit Kindern arbeitet. 
+191: Er hat diese Woche viele Überstunden gemacht. 
+192: Sie ist stark vom Kaffee abhängig und trinkt mehrere Tassen am Tag. 
+193: Ich war enttäuscht, als das Konzert abgesagt wurde. 
+194: Der Ordner auf meinem Schreibtisch ist sehr gut organisiert. 
+195: Bitte legen Sie keine schweren Gegenstände auf den Tisch. 
+196: Das neue Computerprogramm soll unsere Arbeit erleichtern. 
+197: Ein Vorteil dieser Wohnung ist, dass sie im Zentrum liegt. 
+198: Der Lehrer lobte die Schülerin für ihre gute Arbeit. 

@@ -49,7 +49,7 @@ def read_and_cluster(lesson_number, lines_per_group=20):
     elif lesson_number == 20:
         j = sentences_number[0]+1
     elif lesson_number == 21:
-        j = sentences_number[1]+1
+        j = sentences_number[0]+sentences_number[1]+1
         
     lines_txt = [f'{j+i}: ' + line for i, line in enumerate(lines)]
     lines_txt = [line.split('#')[0].strip() for line in lines_txt]
