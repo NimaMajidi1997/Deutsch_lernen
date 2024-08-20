@@ -28,6 +28,8 @@ def num_sentences():
         total_number.append(len(file.readlines()))
     with open('L20/L20_Sentence.txt', 'r') as file:
         total_number.append(len(file.readlines()))
+    with open('L21/L21_Sentence.txt', 'r') as file:
+        total_number.append(len(file.readlines()))   
     return total_number
 
 def read_and_cluster(lesson_number, lines_per_group=20):
@@ -46,7 +48,9 @@ def read_and_cluster(lesson_number, lines_per_group=20):
         j = 1
     elif lesson_number == 20:
         j = sentences_number[0]+1
-
+    elif lesson_number == 21:
+        j = sentences_number[1]+1
+        
     lines_txt = [f'{j+i}: ' + line for i, line in enumerate(lines)]
     lines_txt = [line.split('#')[0].strip() for line in lines_txt]
     clusters_txt = [''.join(lines_txt[i:i + lines_per_group]) for i in range(0, len(lines), lines_per_group)]
