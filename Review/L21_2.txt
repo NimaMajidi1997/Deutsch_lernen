@@ -2,7 +2,18 @@
 200: Erzählen Sie mir bitte mehr über Ihren letzten Urlaub. 
 201: Das Kleid, das sie trägt, ist wirklich schick und hübsch. 
 202: Ich möchte diesen Mantel anprobieren. 
-203: Hast du irgendetwas Interessantes im Fernsehen gesehen?204: Ich muss dir irgendetwas Wichtiges erzählen. 
+203: Hast du irgendetwas Interessantes im Fernsehen gesehen. 
+204: Ich muss dir irgendetwas Wichtiges erzählen. 
 205: In meiner Freizeit habe ich viele verschiedene Beschäftigungen. 
 206: Gewöhnlich gehen wir am Wochenende spazieren. 
 207: Ich habe meinen Koffer für die Reise gepackt. 
+208: Ich musste die alten Zeitungen wegwerfen, weil sie keinen Platz mehr hatten. 
+209: Ich muss unbedingt morgen früh aufstehen. 
+210: Der Abfalleimer ist voll, wir müssen ihn leeren. 
+211: Könntest du bitte den Abfalleimer ausleeren?212: Ein Bekannter von mir hat mir dieses Buch empfohlen. 
+213: Die Kinder hatten große Freude am Spielen im Park. 
+214: Es macht mir viel Freude, anderen zu helfen. 
+215: Das Referat war sehr informativ und gut strukturiert. 
+216: Der Fahrer musste plötzlich bremsen, um einen Unfall zu vermeiden. 
+217: Wir können auf den Urlaub in diesem Jahr verzichten. 
+218: Nach der Arbeit möchte ich mich auf dem Sofa ausruhen. 
