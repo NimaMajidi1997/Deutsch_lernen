@@ -36,3 +36,26 @@ Referat:  Presentation / Report
 Bremsen:  To brake / Brakes
 verzichten: To forgo 
 ausruhen: To rest
+Bdienungsanleitung: Instruction manual
+zufrieden: Satisfied
+beschweren: To complain
+Hochzeit: Wedding
+Griff: handle, grip
+Sendersuchlauf: Channel search
+problemlos: Without problems, smoothly
+ein·packen: to pack("hat eingepackt")
+umtauschen: To exchange
+aufstellen:  To set up, to establish ("hat aufgestellt")
+
+
+
+
+
+Ich habe einen Fernseher gekauft, damit ich wieder meine Lieblingsserie sehen kann.
+Ich habe einen Fernseher gekauft, um wieder meine Lieblingsserie sehen zu können.
+
+Subjekt 1 = Subjekt 2: damit oder um ... zu
+
+Ich habe einen fernseher gekauft, damit meine frau wieder ihre lieblingsserie sehen kann.
+Subjekt 1 != Subjekt 2: nur damit
+I bought a television so that my wife can watch her favorite series again.

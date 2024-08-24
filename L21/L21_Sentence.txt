@@ -30,7 +30,7 @@ Ich habe meinen Koffer für die Reise gepackt.
 Ich musste die alten Zeitungen wegwerfen, weil sie keinen Platz mehr hatten.
 Ich muss unbedingt morgen früh aufstehen.
 Der Abfalleimer ist voll, wir müssen ihn leeren.
-Könntest du bitte den Abfalleimer ausleeren?
+Könntest du bitte den Abfalleimer ausleeren.
 Ein Bekannter von mir hat mir dieses Buch empfohlen. #(An acquaintance of mine recommended this book to me.)
 Die Kinder hatten große Freude am Spielen im Park. #(The children had great joy playing in the park.)
 Es macht mir viel Freude, anderen zu helfen. #(It brings me much joy to help others.)
@@ -38,3 +38,15 @@ Das Referat war sehr informativ und gut strukturiert.
 Der Fahrer musste plötzlich bremsen, um einen Unfall zu vermeiden. #(The driver had to brake suddenly to avoid an accident.)
 Wir können auf den Urlaub in diesem Jahr verzichten.
 Nach der Arbeit möchte ich mich auf dem Sofa ausruhen.
+Die Bedienungsanleitung für das neue Handy ist sehr detailliert. #(The instruction manual for the new phone is very detailed.)
+Ich bin sehr zufrieden mit dem Service in diesem Restaurant.
+Der Kunde hat sich über die lange Wartezeit beschwert.
+Ich möchte mich über den schlechten Service beschweren.
+Die Hochzeit meiner Schwester war wunderschön. #(My sister's wedding was beautiful.)
+Der Griff der Tür ist locker. #(The door handle is loose.)
+Das Gerät funktioniert problemlos seit dem Kauf.
+Ich muss meine Sachen für den Urlaub einpacken.
+Hast du die Geschenke schon eingepackt?
+Ich möchte diesen Pullover umtauschen, weil er zu klein ist.
+Sie haben eine neue Regel für das Büro aufgestellt. #(They established a new rule for the office.)
+Der Sendersuchlauf am Fernseher dauert nur wenige Minuten. #(The channel search on the TV takes only a few minutes.)
