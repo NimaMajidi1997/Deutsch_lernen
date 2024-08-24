@@ -1,52 +1,53 @@
-Wozu brauchst du so viele Bücher.
-Die neue Werbung im Fernsehen ist sehr kreativ.
-Der Konsum von Fast Food ist in den letzten Jahren gestiegen.
-In meiner Mittagspause gehe ich oft spazieren.
+Wozu brauchst du so viele Bücher. #(Why do you need so many books?)
+Die neue Werbung im Fernsehen ist sehr kreativ. #(The new advertisement on TV is very creative.)
+Der Konsum von Fast Food ist in den letzten Jahren gestiegen. #(The consumption of fast food has increased in recent years.)
+In meiner Mittagspause gehe ich oft spazieren. #(I often go for a walk during my lunch break.)
 Die Tankstelle hat auch einen kleinen Laden. #(The gas station also has a small shop.)
-Sie haben einen neuen Fernsehapparat für das Wohnzimmer gekauft.
-Es kann im Sommer sehr heiß in einer Dachwohnung werden.
-Ich besitze ein kleines Haus am See.
+Sie haben einen neuen Fernsehapparat für das Wohnzimmer gekauft. #(They bought a new TV for the living room.)
+Es kann im Sommer sehr heiß in einer Dachwohnung werden. #(It can get very hot in a top-floor apartment in summer.)
+Ich besitze ein kleines Haus am See. #(I own a small house by the lake.)
 Ich habe meine Sachen gepackt und bin bereit zu gehen. #(I packed my things and am ready to go.)
-Sie erholt sich beim Einkaufen vom Bürostress.
-Ein minimalistisches Leben kann Stress reduzieren.
-Geduld ist wichtig, wenn man mit Kindern arbeitet.
-Er hat diese Woche viele Überstunden gemacht.
+Sie erholt sich beim Einkaufen vom Bürostress. #(She relaxes from office stress by shopping.)
+Ein minimalistisches Leben kann Stress reduzieren. #(A minimalist lifestyle can reduce stress.)
+Geduld ist wichtig, wenn man mit Kindern arbeitet. #(Patience is important when working with children.)
+Er hat diese Woche viele Überstunden gemacht. #(He worked many overtime hours this week.)
 Sie ist stark vom Kaffee abhängig und trinkt mehrere Tassen am Tag. #(She is heavily addicted to coffee and drinks several cups a day.)
 Ich war enttäuscht, als das Konzert abgesagt wurde. #(I was disappointed when the concert was canceled.)
-Der Ordner auf meinem Schreibtisch ist sehr gut organisiert.
-Bitte legen Sie keine schweren Gegenstände auf den Tisch.
-Das neue Computerprogramm soll unsere Arbeit erleichtern. #(The new computer program is supposed to make our work easier)
-Ein Vorteil dieser Wohnung ist, dass sie im Zentrum liegt.
-Der Lehrer lobte die Schülerin für ihre gute Arbeit.
+Der Ordner auf meinem Schreibtisch ist sehr gut organisiert. #(The folder on my desk is very well organized.)
+Bitte legen Sie keine schweren Gegenstände auf den Tisch. #(Please do not place heavy items on the table.)
+Das neue Computerprogramm soll unsere Arbeit erleichtern. #(The new computer program is supposed to make our work easier.)
+Ein Vorteil dieser Wohnung ist, dass sie im Zentrum liegt. #(One advantage of this apartment is that it is in the center.)
+Der Lehrer lobte die Schülerin für ihre gute Arbeit. #(The teacher praised the student for her good work.)
 Er hält sein Zimmer immer ordentlich und sauber. #(He always keeps his room tidy and clean.)
-Erzählen Sie mir bitte mehr über Ihren letzten Urlaub.
-Das Kleid, das sie trägt, ist wirklich schick und hübsch.
-Ich möchte diesen Mantel anprobieren.
-Hast du irgendetwas Interessantes im Fernsehen gesehen.
-Ich muss dir irgendetwas Wichtiges erzählen.
-In meiner Freizeit habe ich viele verschiedene Beschäftigungen.
-Gewöhnlich gehen wir am Wochenende spazieren.
-Ich habe meinen Koffer für die Reise gepackt.
-Ich musste die alten Zeitungen wegwerfen, weil sie keinen Platz mehr hatten.
-Ich muss unbedingt morgen früh aufstehen.
-Der Abfalleimer ist voll, wir müssen ihn leeren.
-Könntest du bitte den Abfalleimer ausleeren.
+Erzählen Sie mir bitte mehr über Ihren letzten Urlaub. #(Please tell me more about your last vacation.)
+Das Kleid, das sie trägt, ist wirklich schick und hübsch. #(The dress she is wearing is really stylish and pretty.)
+Ich möchte diesen Mantel anprobieren. #(I would like to try on this coat.)
+Hast du irgendetwas Interessantes im Fernsehen gesehen. #(Did you see anything interesting on TV?)
+Ich muss dir irgendetwas Wichtiges erzählen. #(I need to tell you something important.)
+In meiner Freizeit habe ich viele verschiedene Beschäftigungen. #(In my free time, I have many different activities.)
+Gewöhnlich gehen wir am Wochenende spazieren. #(We usually go for a walk on weekends.)
+Ich habe meinen Koffer für die Reise gepackt. #(I packed my suitcase for the trip.)
+Ich musste die alten Zeitungen wegwerfen, weil sie keinen Platz mehr hatten. #(I had to throw away the old newspapers because they no longer fit.)
+Ich muss unbedingt morgen früh aufstehen. #(I absolutely need to get up early tomorrow.)
+Der Abfalleimer ist voll, wir müssen ihn leeren. #(The trash can is full; we need to empty it.)
+Könntest du bitte den Abfalleimer ausleeren. #(Could you please empty the trash can?)
 Ein Bekannter von mir hat mir dieses Buch empfohlen. #(An acquaintance of mine recommended this book to me.)
 Die Kinder hatten große Freude am Spielen im Park. #(The children had great joy playing in the park.)
 Es macht mir viel Freude, anderen zu helfen. #(It brings me much joy to help others.)
-Das Referat war sehr informativ und gut strukturiert.
+Das Referat war sehr informativ und gut strukturiert. #(The presentation was very informative and well-structured.)
 Der Fahrer musste plötzlich bremsen, um einen Unfall zu vermeiden. #(The driver had to brake suddenly to avoid an accident.)
-Wir können auf den Urlaub in diesem Jahr verzichten.
-Nach der Arbeit möchte ich mich auf dem Sofa ausruhen.
+Wir können auf den Urlaub in diesem Jahr verzichten. #(We can forgo the vacation this year.)
+Nach der Arbeit möchte ich mich auf dem Sofa ausruhen. #(After work, I want to relax on the sofa.)
 Die Bedienungsanleitung für das neue Handy ist sehr detailliert. #(The instruction manual for the new phone is very detailed.)
-Ich bin sehr zufrieden mit dem Service in diesem Restaurant.
-Der Kunde hat sich über die lange Wartezeit beschwert.
-Ich möchte mich über den schlechten Service beschweren.
+Ich bin sehr zufrieden mit dem Service in diesem Restaurant. #(I am very satisfied with the service in this restaurant.)
+Der Kunde hat sich über die lange Wartezeit beschwert. #(The customer complained about the long wait time.)
+Ich möchte mich über den schlechten Service beschweren. #(I want to complain about the poor service.)
 Die Hochzeit meiner Schwester war wunderschön. #(My sister's wedding was beautiful.)
 Der Griff der Tür ist locker. #(The door handle is loose.)
-Das Gerät funktioniert problemlos seit dem Kauf.
-Ich muss meine Sachen für den Urlaub einpacken.
-Hast du die Geschenke schon eingepackt?
-Ich möchte diesen Pullover umtauschen, weil er zu klein ist.
+Das Gerät funktioniert problemlos seit dem Kauf. #(The device has been working perfectly since the purchase.)
+Ich muss meine Sachen für den Urlaub einpacken. #(I need to pack my things for the vacation.)
+Hast du die Geschenke schon eingepackt. #(Have you already wrapped the gifts?)
+Ich möchte diesen Pullover umtauschen, weil er zu klein ist. #(I want to exchange this sweater because it is too small.)
 Sie haben eine neue Regel für das Büro aufgestellt. #(They established a new rule for the office.)
 Der Sendersuchlauf am Fernseher dauert nur wenige Minuten. #(The channel search on the TV takes only a few minutes.)
+Ich habe einen Kaffeefleck auf meinem Hemd. #(I have a coffee stain on my shirt.)

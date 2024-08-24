@@ -1,60 +1,60 @@
-Er zündet die Kerze an.
-Ich habe sogar Probleme mit der Welt.
-Ich bin stolz auf meine langen Haare.
-Beiden stieg aus der Wahl aus.
-Übrigens ist es Heute sehr heiß.
-Meine Freundin ist aber auch eine selbstständige, emanzipierte Frau, und hat sehr moderne Ansichten.
-Ich war vor allem von meiner Freundin begeistert.
-Strafen haben nicht geholfen.
-Sie nimmt alle Spiele der Mannschaft im Fernsehen auf.
-Ich bin immer mit meiner Masterarbeit beschäftigt und dauernd sage ich das ist einfach.
-Ich habe gedacht, dass ich mit meinen elektronischen Geräten in meiner Werkstatt etwas gebastelt habe.
-Ich habe an Demonstrationen gegen die Atomkraft beteiligt.
-Ich habe bei Friedensmärschen mitgemacht und das war ein Unvergessliches Erlebnis für mich.
-Ich verbrachte meine Kindheit in Taybad.
-Alex unterrichtete als Biologist.
-Auswanderer aus Iran Unterstützte in den USA.
-Er Veröffentlichte ein Buch und erhielt ein Geschenk.
-Sie weigerte sich zu gehen.
-Ein technischer Fehler ist aufgetreten.
-Wenn jemand mich beleidigt, beschimpfe ich die Person fast nie.
-Wenn er mein Fahrzeug beschädigt, schreie ich ihn an.
-Als ich ein Kind war, spielte ich viel draußen.
-Als wir im Urlaub waren, besuchten wir viele Museen.
-Als sie nach Hause kam, begann es zu regnen.
-Ich rief ihn an, als ich die E-Mail las.
-Er war glücklich, als er die Nachricht hörte.
-Das Medikament wirkt schnell.
-Der Arzt stellte die Diagnose fest.
-Sie hält immer ihr Zimmer in Ordnung.
-Ich gehe regelmäßig joggen.
-Er besucht uns häufig.
-Die Antwort war eindeutig.
-Er hat es eindeutig gesagt.
-Er gab das Rauchen auf.
-Er hat großen Einfluss auf das Team.
-Er begleitet sie zum Arzt.
-Die Mühe hat sich gelohnt.
-Er ist schon einmal dort gewesen.
-Es war eine schwierige Aufgabe.
-Sie ist seit zwei Jahren geschieden.
-Er ging nach Hause.
-Es ging bergab mit seiner Gesundheit.
-Sie hat uns die Fotos gezeigt.
-Der Schlüssel liegt unten.
-Es war ihm gelungen, sein Leben in den Griff zu bekommen.
-Er versucht, das Projekt abzuschließen.
-Wir müssen es schaffen.
-Es hat mir gezeigt, dass man es schaffen kann.
-Dieser Lebensabschnitt war sehr aufregend.
+Er zündet die Kerze an. #(He lights the candle.)
+Ich habe sogar Probleme mit der Welt. #(I even have problems with the world.)
+Ich bin stolz auf meine langen Haare. #(I am proud of my long hair.)
+Beiden stieg aus der Wahl aus. #(Both withdrew from the election.)
+Übrigens ist es heute sehr heiß. #(By the way, it is very hot today.)
+Meine Freundin ist aber auch eine selbstständige, emanzipierte Frau, und hat sehr moderne Ansichten. #(My girlfriend is also a self-employed, emancipated woman with very modern views.)
+Ich war vor allem von meiner Freundin begeistert. #(I was especially impressed by my girlfriend.)
+Strafen haben nicht geholfen. #(Punishments did not help.)
+Sie nimmt alle Spiele der Mannschaft im Fernsehen auf. #(She records all of the team's games on television.)
+Ich bin immer mit meiner Masterarbeit beschäftigt und dauernd sage ich, dass es einfach ist. #(I am always busy with my master’s thesis and constantly say that it is easy.)
+Ich habe gedacht, dass ich mit meinen elektronischen Geräten in meiner Werkstatt etwas gebastelt habe. #(I thought that I had tinkered with my electronic devices in my workshop.)
+Ich habe an Demonstrationen gegen die Atomkraft teilgenommen. #(I participated in demonstrations against nuclear power.)
+Ich habe bei Friedensmärschen mitgemacht und das war ein unvergessliches Erlebnis für mich. #(I participated in peace marches and that was an unforgettable experience for me.)
+Ich verbrachte meine Kindheit in Taybad. #(I spent my childhood in Taybad.)
+Alex unterrichtete als Biologe. #(Alex taught as a biologist.)
+Auswanderer aus Iran unterstützten in den USA. #(Emigrants from Iran supported in the USA.)
+Er veröffentlichte ein Buch und erhielt ein Geschenk. #(He published a book and received a gift.)
+Sie weigerte sich zu gehen. #(She refused to leave.)
+Ein technischer Fehler ist aufgetreten. #(A technical error has occurred.)
+Wenn jemand mich beleidigt, beschimpfe ich die Person fast nie. #(If someone insults me, I almost never curse at the person.)
+Wenn er mein Fahrzeug beschädigt, schreie ich ihn an. #(If he damages my vehicle, I yell at him.)
+Als ich ein Kind war, spielte ich viel draußen. #(When I was a child, I played outside a lot.)
+Als wir im Urlaub waren, besuchten wir viele Museen. #(When we were on vacation, we visited many museums.)
+Als sie nach Hause kam, begann es zu regnen. #(When she came home, it started to rain.)
+Ich rief ihn an, als ich die E-Mail las. #(I called him when I read the email.)
+Er war glücklich, als er die Nachricht hörte. #(He was happy when he heard the news.)
+Das Medikament wirkt schnell. #(The medication works quickly.)
+Der Arzt stellte die Diagnose fest. #(The doctor made the diagnosis.)
+Sie hält immer ihr Zimmer in Ordnung. #(She always keeps her room tidy.)
+Ich gehe regelmäßig joggen. #(I go jogging regularly.)
+Er besucht uns häufig. #(He visits us frequently.)
+Die Antwort war eindeutig. #(The answer was clear.)
+Er hat es eindeutig gesagt. #(He said it clearly.)
+Er gab das Rauchen auf. #(He gave up smoking.)
+Er hat großen Einfluss auf das Team. #(He has a big influence on the team.)
+Er begleitet sie zum Arzt. #(He accompanies her to the doctor.)
+Die Mühe hat sich gelohnt. #(The effort was worth it.)
+Er ist schon einmal dort gewesen. #(He has been there before.)
+Es war eine schwierige Aufgabe. #(It was a difficult task.)
+Sie ist seit zwei Jahren geschieden. #(She has been divorced for two years.)
+Er ging nach Hause. #(He went home.)
+Es ging bergab mit seiner Gesundheit. #(His health declined.)
+Sie hat uns die Fotos gezeigt. #(She showed us the photos.)
+Der Schlüssel liegt unten. #(The key is downstairs.)
+Es war ihm gelungen, sein Leben in den Griff zu bekommen. #(He managed to get his life under control.)
+Er versucht, das Projekt abzuschließen. #(He is trying to complete the project.)
+Wir müssen es schaffen. #(We need to succeed.)
+Es hat mir gezeigt, dass man es schaffen kann. #(It showed me that it can be done.)
+Dieser Lebensabschnitt war sehr aufregend. #(This phase of life was very exciting.)
 Ich habe mich anders entschlossen. #(I have changed my mind.)
 Er fühlt sich aus der Gruppe ausgeschlossen. #(He feels excluded from the group.)
-Hast du überhaupt verstanden, was er sagte.
-Das war ein riesiger Erfolg.
-Er hat seinen Hund mitgenommen.
-Die Entscheidung ist endgültig.
-Tom brauchte Hoffnung.
-Ich musste meinen alten Fernseher weggeben.
-Die Preise sind dieses Jahr gestiegen.
-Sie sind in eine neue Wohnung gezogen.
+Hast du überhaupt verstanden, was er sagte. #(Did you even understand what he said?)
+Das war ein riesiger Erfolg. #(That was a huge success.)
+Er hat seinen Hund mitgenommen. #(He took his dog with him.)
+Die Entscheidung ist endgültig. #(The decision is final.)
+Tom brauchte Hoffnung. #(Tom needed hope.)
+Ich musste meinen alten Fernseher weggeben. #(I had to give away my old TV.)
+Die Preise sind dieses Jahr gestiegen. #(Prices have risen this year.)
+Sie sind in eine neue Wohnung gezogen. #(They moved to a new apartment.)
 Er hofft, die Prüfung zu schaffen. #(He hopes to pass the exam.)
