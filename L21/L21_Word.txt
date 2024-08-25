@@ -47,6 +47,32 @@ ein·packen: to pack("hat eingepackt")
 umtauschen: To exchange
 aufstellen:  To set up, to establish ("hat aufgestellt")
 Fleck: Stain
+wohl.fühlen:  To feel comfortable, to feel well ("hat wohlgefühlt")
+Reiseziele: Travel destinations
+Dienst: Service, duty
+Erkenntnissen: Insights, findings
+Stadion: Stadium
+Konzerttournee: Concert tour
+Lieblingslieder: Favorite songs
+ein·setzen: To use, to apply, to insert ("hat eingesetzt")
+mühelos: Effortlessly, with ease
+Busunternehmer: Bus operator
+fordert: Demands, requires ("fordern")("hat gefordert")
+verständnis: Understanding
+Ratschläge: Advice, pieces of advice
+ertwarte: Expect ("erwarten")("hat erwartet")
+Beruhigen: To calm down, to soothe
+schrecklich: Terrible, awful
+ersetzt: Replaced ("ersetzen")("hat ersetzt")
+entfernt: distant
+
+
+
+
+
+
+
+
 
 
 
