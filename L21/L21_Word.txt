@@ -65,13 +65,35 @@ Beruhigen: To calm down, to soothe
 schrecklich: Terrible, awful
 ersetzt: Replaced ("ersetzen")("hat ersetzt")
 entfernt: distant
-
-
-
-
-
-
-
+Reinigung: cleaning
+erklären: explain
+Schaden: damage
+an.bieten: to offer ("hat angeboten")
+Plakatwände: Billboards, poster walls
+Reklametafel: Advertising board
+Werbebotschaft: Advertising message
+Werbespot: Commercials, advertisements (usually on TV or radio)
+auffalend: noticeable
+werben: advertise ("hat geworben")
+Auf.fallen: To stand out, to be noticeable ("ist aufgefallen")
+Werbung: advertisement
+kaum: Hardly, barely
+Hersteller: manufacturer
+behauptet: claim ("behaupten")("hat behauptet")
+aus·geben: Spend, issue ("hat ausgegeben")
+offiziell: official
+Konsument: consumer
+Mundpropaganda: word of mouth
+empfehlen: To recommend
+versteckte: hidden
+bestimmt: Specific, particular
+Markengetränk:  Branded beverage
+wieder.erkennen: To recognize ("hat wiedererkannt")
+schokieren: To shock
+abstrakt: Abstract
+Beziehung: relationship
+besteht: consists of ("bestehen")("hat bestanden")
+aufmerksam: Attentive
 
 
 
