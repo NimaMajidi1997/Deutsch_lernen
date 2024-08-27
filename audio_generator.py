@@ -7,18 +7,44 @@ import glob
 # parser.add_argument("Lektion_Nummer", help="Lektion?")
 # nummer = parser.parse_args().Lektion_Nummer 
 
-latex_sample = """
-\documentclass[
-    fontsize=16pt,        
-    paper=a4,              
-    parskip=half 
-]§article
-\\usepackage§Package1
-\\usepackage§Package2
-\\begin§document  \SixteenStarLight Your are improving ... \SixteenStarLight  \\\\ \SixteenStarLight  \SixteenStarLight \SixteenStarLight \SixteenStarLight \SixteenStarLight  \SixteenStarLight \SixteenStarLight \SixteenStarLight \SixteenStarLight  \SixteenStarLight \SixteenStarLight \SixteenStarLight
-\section§Deutsch {sentences_de} \\newpage
-\section§Englisch {sentences_eng}
-\end§document"""
+def gen_tex_file(sentences_de, sentences_eng):
+    latex = r"""
+        \documentclass[
+        fontsize=15pt,
+        parskip=half
+    ]{scrartcl}
+
+        \usepackage[utf8]{inputenc}
+        \usepackage{hyperref}
+        \usepackage{dictsym}
+        \usepackage{bbding}
+        \usepackage{hieroglf}
+         
+        \usepackage[a4paper, top=0.5in, bottom=0.25in, left=0.5in, right=0.5in]{geometry} % Adjust the margins here
+
+        \begin{document}
+        \SixteenStarLight \SnowflakeChevron \SnowflakeChevronBold 
+        \SnowflakeChevron \SnowflakeChevronBold  \SnowflakeChevron 
+        \SnowflakeChevron \SnowflakeChevronBold \SnowflakeChevron  
+        \SixteenStarLight  \\ 
+        \SunshineOpenCircled \hspace{0.2cm}  Remember ... \\ 
+        \SunshineOpenCircled \hspace{0.2cm}  Your are improving! \\ 
+        \SixteenStarLight \SnowflakeChevron \SnowflakeChevronBold 
+        \SnowflakeChevron \SnowflakeChevronBold  \SnowflakeChevron 
+        \SnowflakeChevron \SnowflakeChevronBold \SnowflakeChevron  \SixteenStarLight 
+
+        \section{\dsliterary \hspace{0.2cm}  Deutsch \hspace{0.2cm} \dsliterary} 
+        """ + sentences_de + r"""
+        \footnote{© 2024 \href{https://github.com/NimaMajidi1997/Deutsch_lernen}{https://github.com/NimaMajidi1997/Deutsch\_lernen} . All rights reserved.}
+        \newpage
+        \section{\dsliterary \hspace{0.2cm} Englisch \hspace{0.2cm} \dsliterary} 
+        """ + sentences_eng + r"""
+        \footnote{© 2024 \href{https://github.com/NimaMajidi1997/Deutsch_lernen}{https://github.com/NimaMajidi1997/Deutsch\_lernen} . All rights reserved.}
+
+        
+        \end{document}
+        """
+    return latex
 
 def create_flashcard(front, filename):
     # Create a larger blank image with white background
@@ -51,7 +77,8 @@ def delete_unnecessary():
         log_files = glob.glob("Review/*.log")
         aux_files = glob.glob("Review/*.aux")
         tex_files = glob.glob("Review/*.tex")
-        files_to_delete = log_files + aux_files + tex_files
+        out_files = glob.glob("Review/*.out")
+        files_to_delete = log_files + aux_files + tex_files+ out_files
         # Delete each file
         for file in files_to_delete:
             os.remove(file)
@@ -94,10 +121,11 @@ def read_and_cluster(lesson_number, lines_per_group=20):
     clusters_txt_eng = [cluster.replace('(', '') for cluster in clusters_txt_eng]
     clusters_txt_eng = [cluster.replace(')', '') for cluster in clusters_txt_eng]
     clusters_txt_eng = [cluster.replace('\n', '\\\\') for cluster in clusters_txt_eng]
-    print(clusters_txt_eng)
-
+    #print(clusters_txt_eng)
+    clusters_txt_flash = [cluster.replace('.', '. \n') for cluster in clusters_txt_de]
     clusters_txt_de = [cluster.replace('.', '. \\\\') for cluster in clusters_txt_de]
-    print(clusters_txt_de)
+    
+    #print(clusters_txt_de)
 
 
     lines = [line.split('#')[0].strip() for line in lines]
@@ -107,29 +135,19 @@ def read_and_cluster(lesson_number, lines_per_group=20):
     for i, cluster in enumerate(clusters_txt_de):
         print(f"Group {i + 1}:")
         #print(cluster)
-        latex = latex_sample.format(sentences_de=cluster,sentences_eng=clusters_txt_eng[i] )
-        latex = latex.replace('§article', '{scrartcl}')
-        latex = latex.replace('§Deutsch', '{\dsliterary Deutsch\dsliterary}')
-        latex = latex.replace('§Englisch', '{\dsliterary Englisch\dsliterary}')
-        latex = latex.replace('§document', '{document}')
-        latex = latex.replace('§Package1', '{dictsym}')
-        latex = latex.replace('§Package2', '{bbding}')
-        #latex = latex.replace('§verticalSpace', '{1cm}') \hspace§verticalSpace 
-         
+        latex = gen_tex_file(sentences_de=cluster, sentences_eng=clusters_txt_eng[i])
         print(latex)
         with open('Review/main.tex', 'w', encoding='utf-8') as file:
             file.write(latex)
         command_tex = f'pdflatex -jobname=Review/L{lesson_number}_{i+1} Review/main.tex'
         os.system(command_tex)
         
+        create_flashcard(clusters_txt_flash[i], f'Flashcards/L{lesson_number}_{i+1}.png')
 
-        create_flashcard(cluster, f'Flashcards/L{lesson_number}_{i+1}.png')
-
-    for i, cluster in enumerate(cluster_audio):
-        command = f'tts --text "{cluster}" --model_name "tts_models/de/thorsten/vits" --out_path "Review/L{lesson_number}_{i+1}.wav"'
-        os.system(command)
-        print(f'---- \nL{lesson_number}_{i+1}.wav generated ! \n')
-
+    # for i, cluster in enumerate(cluster_audio):
+    #     command = f'tts --text "{cluster}" --model_name "tts_models/de/thorsten/vits" --out_path "Review/L{lesson_number}_{i+1}.wav"'
+    #     os.system(command)
+    #     print(f'---- \nL{lesson_number}_{i+1}.wav generated ! \n')
 
 
 if __name__ == "__main__":

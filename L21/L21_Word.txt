@@ -94,9 +94,17 @@ abstrakt: Abstract
 Beziehung: relationship
 besteht: consists of ("bestehen")("hat bestanden")
 aufmerksam: Attentive
-
-
-
+stirbt: dies ("sterben")("ist gestorben") 
+Feind: enemy
+Verantwortung: Responsibility
+Sonnenuntergang: Sunset
+Wirkung: Effect, impact
+fleißig: Hardworking, diligent
+sauber: Clean
+wütend: Angry
+durstig: Thirsty
+Erholung: Rest, relaxation, recovery
+Handtuch: towel
 
 
 Ich habe einen Fernseher gekauft, damit ich wieder meine Lieblingsserie sehen kann.
