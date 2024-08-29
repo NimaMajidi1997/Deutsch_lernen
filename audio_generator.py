@@ -69,7 +69,9 @@ def num_sentences():
     with open('L20/L20_Sentence.txt', 'r') as file:
         total_number.append(len(file.readlines()))
     with open('L21/L21_Sentence.txt', 'r') as file:
-        total_number.append(len(file.readlines()))   
+        total_number.append(len(file.readlines()))
+    with open('L22/L22_Sentence.txt', 'r') as file:
+        total_number.append(len(file.readlines()))     
     return total_number
 
 
@@ -87,10 +89,7 @@ def delete_unnecessary():
 
 def read_and_cluster(lesson_number, lines_per_group=20):
     filename = f"L{lesson_number}/L{lesson_number}_Sentence.txt"
-    
-
-
-
+   
     # Check if file exists
     if not os.path.isfile(filename):
         print(f"File {filename} does not exist.")
@@ -106,8 +105,8 @@ def read_and_cluster(lesson_number, lines_per_group=20):
         j = sentences_number[0]+1
     elif lesson_number == 21:
         j = sentences_number[0]+sentences_number[1]+1
-        
-    #lines_txt = [f'{j+i}: ' + line for i, line in enumerate(lines)] # add number for each sentence
+    elif lesson_number == 22:
+        j = sentences_number[0]+sentences_number[1]+sentences_number[2]+1
 
     lines_txt_eng = [line.split('#')[1] for line in lines] # separate Deutsch and English
     lines_txt_eng = [f'{j+i}: ' + line for i, line in enumerate(lines_txt_eng)] # add number for each sentence
@@ -117,16 +116,13 @@ def read_and_cluster(lesson_number, lines_per_group=20):
     clusters_txt_eng = [''.join(lines_txt_eng[i:i + lines_per_group]) for i in range(0, len(lines), lines_per_group)]
     clusters_txt_de = [''.join(lines_txt_de[i:i + lines_per_group]) for i in range(0, len(lines), lines_per_group)]
 
-
     clusters_txt_eng = [cluster.replace('(', '') for cluster in clusters_txt_eng]
     clusters_txt_eng = [cluster.replace(')', '') for cluster in clusters_txt_eng]
     clusters_txt_eng = [cluster.replace('\n', '\\\\') for cluster in clusters_txt_eng]
     #print(clusters_txt_eng)
     clusters_txt_flash = [cluster.replace('.', '. \n') for cluster in clusters_txt_de]
     clusters_txt_de = [cluster.replace('.', '. \\\\') for cluster in clusters_txt_de]
-    
     #print(clusters_txt_de)
-
 
     lines = [line.split('#')[0].strip() for line in lines]
     clusters = [''.join(lines[i:i + lines_per_group]) for i in range(0, len(lines), lines_per_group)]
@@ -148,7 +144,6 @@ def read_and_cluster(lesson_number, lines_per_group=20):
     #     command = f'tts --text "{cluster}" --model_name "tts_models/de/thorsten/vits" --out_path "Review/L{lesson_number}_{i+1}.wav"'
     #     os.system(command)
     #     print(f'---- \nL{lesson_number}_{i+1}.wav generated ! \n')
-
 
 if __name__ == "__main__":
     number = int(input("Enter the lesson number: (e.g. 19) \n"))
