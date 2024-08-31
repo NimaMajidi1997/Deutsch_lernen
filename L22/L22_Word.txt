@@ -9,3 +9,31 @@ entscheiden: decide ("hat entschieden")
 enttäuschen: disappoint ("hat enttäuscht")
 Heraus.finden: To find out, to discover ("hat herausgefunden")
 stimmen: vote, tune("hat gestimmt")
+Kunstfleisch: Lab-grown meat, artificial meat
+Zellen: Cells
+Zellhaufen: Zellhaufen
+verbinden: to Connect, link ("hat verbunden")
+Rücken: Back (body part)
+nehmen: take ("hat genommen")
+Jahrzehntelang: for decades
+forschen:  carry on research ("hat geforscht")
+gelingen: be successful ("ist gelungen")
+Kuhmist: Cow manure
+füttern: feed ("hat gefüttert")
+teilen: divide, share, partition ("hat geteilt")
+einzeln: Individual, each
+riechen: smell ("hat gerochen")
+braten: fry, roast ("hat gebraten")
+überzeugen: convince ("hat überzeugt")
+retten: to save ("hat gerettet")
+Erde: Earth, soil
+dagegen:  Against it, on the other hand
+Hauptursache: Main cause, reason
+Klimawandel: Climate change
+Tatsache: Fact
+allerdings: However, though
+Vorstellung: Idea, imagination, performance
+echt: Real
+beruhigen: To calm ("hat beruhigt")
+täuschen: deceive, mislead ("hat getäuscht")
+Nahrungsmittel: Food
