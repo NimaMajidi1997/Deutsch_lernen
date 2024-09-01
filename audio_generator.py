@@ -2,6 +2,8 @@ import os
 import argparse
 from PIL import Image, ImageDraw, ImageFont
 import glob
+import hashlib
+import PyPDF2
 
 # parser = argparse.ArgumentParser(description='Lektion nummer?')
 # parser.add_argument("Lektion_Nummer", help="Lektion?")
@@ -84,6 +86,25 @@ def delete_unnecessary():
             os.remove(file)
             print(f"Deleted: {file}")
 
+def extract_text_from_pdf(pdf_path):
+    with open(pdf_path, 'rb') as file:
+        reader = PyPDF2.PdfReader(file)
+        text = ''
+        for page in reader.pages:
+            text += page.extract_text()
+    return text
+
+def compare_pdfs(new_file, old_file):
+    text1 = extract_text_from_pdf(new_file)
+    text2 = extract_text_from_pdf(old_file)
+    
+    if text1 == text2:
+        print(f"{old_file} are identical in content.")
+        os.remove(new_file)
+        return True
+    else:
+        return False
+    
 def read_and_cluster(lesson_number, audio_gen, lines_per_group=20):
     filename = f"L{lesson_number}/L{lesson_number}_Sentence.txt"
    
@@ -129,12 +150,21 @@ def read_and_cluster(lesson_number, audio_gen, lines_per_group=20):
         print(f"Group {i + 1}:")
         #print(cluster)
         latex = gen_tex_file(sentences_de=cluster, sentences_eng=clusters_txt_eng[i])
-        print(latex)
+        #print(latex)
         with open('Review/main.tex', 'w', encoding='utf-8') as file:
             file.write(latex)
-        command_tex = f'pdflatex -jobname=Review/L{lesson_number}_{i+1} Review/main.tex'
+        #command_tex = f'pdflatex -jobname=Review/L{lesson_number}_{i+1} Review/main.tex'
+        command_tex = f'pdflatex -jobname=Review/temp Review/main.tex'
         os.system(command_tex)
-        
+
+        if os.path.exists(f'Review/L{lesson_number}_{i+1}.pdf'):
+            
+            identical = compare_pdfs('Review/temp.pdf', f'Review/L{lesson_number}_{i+1}.pdf')
+
+            if identical == False:
+                os.rename('Review/temp.pdf', f'Review/L{lesson_number}_{i+1}.pdf')
+                print('renamed the gile')
+
         create_flashcard(clusters_txt_flash[i], f'Flashcards/L{lesson_number}_{i+1}.png')
 
     if audio_gen == 'yes':
