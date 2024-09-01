@@ -4,6 +4,7 @@ from PIL import Image, ImageDraw, ImageFont
 import glob
 import hashlib
 import PyPDF2
+import subprocess
 
 # parser = argparse.ArgumentParser(description='Lektion nummer?')
 # parser.add_argument("Lektion_Nummer", help="Lektion?")
@@ -99,7 +100,6 @@ def compare_pdfs(new_file, old_file):
     text2 = extract_text_from_pdf(old_file)
     
     if text1 == text2:
-        print(f"{old_file} are identical in content.")
         os.remove(new_file)
         return True
     else:
@@ -153,9 +153,11 @@ def read_and_cluster(lesson_number, audio_gen, lines_per_group=20):
         #print(latex)
         with open('Review/main.tex', 'w', encoding='utf-8') as file:
             file.write(latex)
-        #command_tex = f'pdflatex -jobname=Review/L{lesson_number}_{i+1} Review/main.tex'
-        command_tex = f'pdflatex -jobname=Review/temp Review/main.tex'
-        os.system(command_tex)
+
+        #command_tex = f'pdflatex -jobname=Review/temp Review/main.tex'
+        #os.system(command_tex)
+        command_tex = ['pdflatex', '-jobname=Review/temp', 'Review/main.tex']
+        subprocess.run(command_tex, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE)
 
         if os.path.exists(f'Review/L{lesson_number}_{i+1}.pdf'):
             
@@ -163,10 +165,16 @@ def read_and_cluster(lesson_number, audio_gen, lines_per_group=20):
 
             if identical == False:
                 os.rename('Review/temp.pdf', f'Review/L{lesson_number}_{i+1}.pdf')
-                print('renamed the gile')
+                create_flashcard(clusters_txt_flash[i], f'Flashcards/L{lesson_number}_{i+1}.png')
+                print(f"L{lesson_number}_{i+1}.pdf is replaced!", flush=True)
+            else:
+                print(f"L{lesson_number}_{i+1}.pdf are identical in content.", flush=True)
+        else:
+            os.rename('Review/temp.pdf', f'Review/L{lesson_number}_{i+1}.pdf')
+            create_flashcard(clusters_txt_flash[i], f'Flashcards/L{lesson_number}_{i+1}.png')
+            print(f"L{lesson_number}_{i+1}.pdf generated!", flush=True)
 
-        create_flashcard(clusters_txt_flash[i], f'Flashcards/L{lesson_number}_{i+1}.png')
-
+        print('\n')
     if audio_gen == 'yes':
         for i, cluster in enumerate(cluster_audio):
             command = f'tts --text "{cluster}" --model_name "tts_models/de/thorsten/vits" --out_path "Review/L{lesson_number}_{i+1}.wav"'
