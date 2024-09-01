@@ -1,5 +1,6 @@
 # Deutsch_lernen
 Ich würde hier Deutsch lernen :)
+## Learn German in an engineered way !
 
 # &#128161; Idea behind this Project
 This project aims to build a database for the vocabulary we learn over time. We add new words and corresponding sentences into two files: L#_Word.txt and L#_Sentences.txt. By converting these sentences into audio files, we can review new vocabularies more easily just by listening.
@@ -20,16 +21,16 @@ sudo apt install texlive-latex-base
 sudo apt install texlive-full
 ```
 
-Then, you can run the [audio_generator.py](https://github.com/NimaMajidi1997/Deutsch_lernen/blob/main/audio_generator.py). This script will cluster your sentences and generate the corresponding audio and text files.
+Then, you can run the [Generator.py](https://github.com/NimaMajidi1997/Deutsch_lernen/blob/main/audio_generator.py). This script, first, asks you about the lesson number, for example you are working in lesson 19 (L_19), you enter '19'. Then it asks you if you need the audio generation. You answer yes or no. Finally, it will cluster your sentences and generate the corresponding audio and pdf files.
 
 📌Important note📌
 
 In L#_Sentences.txt, when you are adding the new sentences, it is necesssary to follow this style:
 
 ```bash
-German sentence test-1. #(English meaning test-1.)
-German sentence test-2. #(English meaning test-2.)
-German sentence test-3. #(English meaning test-3.)
+German-sentence-test-1. #(English-meaning-test-1.)
+German-sentence-test-2. #(English-meaning-test-2.)
+German-sentence-test-3. #(English-meaning-test-3.)
 .
 .
 .
