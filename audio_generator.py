@@ -41,7 +41,6 @@ def gen_tex_file(sentences_de, sentences_eng):
         """ + sentences_eng + r"""
         \footnote{© 2024 \href{https://github.com/NimaMajidi1997/Deutsch_lernen}{https://github.com/NimaMajidi1997/Deutsch\_lernen} . All rights reserved.}
 
-        
         \end{document}
         """
     return latex
@@ -74,7 +73,6 @@ def num_sentences():
         total_number.append(len(file.readlines()))     
     return total_number
 
-
 def delete_unnecessary():
         log_files = glob.glob("Review/*.log")
         aux_files = glob.glob("Review/*.aux")
@@ -86,8 +84,7 @@ def delete_unnecessary():
             os.remove(file)
             print(f"Deleted: {file}")
 
-
-def read_and_cluster(lesson_number, lines_per_group=20):
+def read_and_cluster(lesson_number, audio_gen, lines_per_group=20):
     filename = f"L{lesson_number}/L{lesson_number}_Sentence.txt"
    
     # Check if file exists
@@ -140,12 +137,14 @@ def read_and_cluster(lesson_number, lines_per_group=20):
         
         create_flashcard(clusters_txt_flash[i], f'Flashcards/L{lesson_number}_{i+1}.png')
 
-    # for i, cluster in enumerate(cluster_audio):
-    #     command = f'tts --text "{cluster}" --model_name "tts_models/de/thorsten/vits" --out_path "Review/L{lesson_number}_{i+1}.wav"'
-    #     os.system(command)
-    #     print(f'---- \nL{lesson_number}_{i+1}.wav generated ! \n')
+    if audio_gen == 'yes':
+        for i, cluster in enumerate(cluster_audio):
+            command = f'tts --text "{cluster}" --model_name "tts_models/de/thorsten/vits" --out_path "Review/L{lesson_number}_{i+1}.wav"'
+            os.system(command)
+            print(f'---- \nL{lesson_number}_{i+1}.wav generated ! \n')
 
 if __name__ == "__main__":
     number = int(input("Enter the lesson number: (e.g. 19) \n"))
-    read_and_cluster(number, lines_per_group=20)
+    audio_gen = str(input("Do you want audio generation? (yes or no) \n"))
+    read_and_cluster(number, audio_gen, lines_per_group=20)
     delete_unnecessary()
