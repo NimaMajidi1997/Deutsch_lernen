@@ -102,7 +102,7 @@ Ich habe ihn sofort wiedererkannt, obwohl wir uns lange nicht gesehen haben. #(I
 Die Nachricht hat die ganze Stadt schockiert. #(The news shocked the entire town.)
 Sein Denken ist oft sehr abstrakt und schwer zu folgen. #(His thinking is often very abstract and difficult to follow.)
 Er hat eine gute Beziehung zu seinen Kollegen. #(He has a good relationship with his colleagues.)
-Das Teambesteht aus fünf Mitgliedern. #(The team consists of five members.)
+Das Team besteht aus fünf Mitgliedern. #(The team consists of five members.)
 Der Kellner war sehr aufmerksam und brachte uns sofort neue Getränke. #(The waiter was very attentive and immediately brought us new drinks.)
 Er hat viele Feinde wegen seiner politischen Ansichten. #(He has many enemies because of his political views.)
 Eltern tragen die Verantwortung für ihre Kinder. #(Parents bear responsibility for their children.)

@@ -37,3 +37,15 @@ echt: Real
 beruhigen: To calm ("hat beruhigt")
 täuschen: deceive, mislead ("hat getäuscht")
 Nahrungsmittel: Food
+wachsen: grow ("ist gewachsen")
+roh: raw
+kisten: box, crate
+ausleihen:  To borrow, to lend
+abwaschen: To wash
+aufstellen: To set up
+anmachen: To turn on, to light
+Grillkohle: charcoal
+besorgen: To get, to obtain
+wegräumen: To put away, to clear away
+Nachtisch: Dessert
+Zettel: Note, piece of paper
