@@ -49,3 +49,6 @@ besorgen: To get, to obtain
 wegräumen: To put away, to clear away
 Nachtisch: Dessert
 Zettel: Note, piece of paper
+unterlagen: Documents, paperwork
+verlieren: To lose ("hat verloren")
+klappen: go smoothly, work out ("hat geklappt")

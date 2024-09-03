@@ -53,3 +53,7 @@ Ich muss noch Getränke für die Party besorgen. #(I still need to get drinks fo
 Nach dem Essen müssen wir den Tisch wegräumen. #(After the meal, we need to clear away the table.)
 Zum Nachtisch gibt es heute Eis. #(There's ice cream for dessert today.)
 Er hat mir einen Zettel mit seiner Telefonnummer gegeben. #(He gave me a note with his phone number.)
+Ich muss die Unterlagen für das Meeting vorbereiten. #(I need to prepare the documents for the meeting.)
+Ich hoffe, ich werde meinen Schlüssel nicht verlieren. #(I hope I don't lose my key.)
+Er hat sein Handy im Zug verloren. #(He lost his phone on the train.)
+Der Plan hat geklappt, und wir haben das Projekt rechtzeitig beendet. #(The plan worked out, and we finished the project on time.)
