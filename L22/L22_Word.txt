@@ -52,3 +52,18 @@ Zettel: Note, piece of paper
 unterlagen: Documents, paperwork
 verlieren: To lose ("hat verloren")
 klappen: go smoothly, work out ("hat geklappt")
+zweifellos: Undoubtedly, without a doubt
+selbstverständlich: Of course, naturally
+anscheinend: Apparently
+offenbar: Obviously, evidently
+tatsächlich: Actually, really
+angeblich: Allegedly
+eventuell: Possibly, maybe
+Eindruck: Impression
+Ente: Duck 
+Kreuz: Cross
+Getreide:
+Tuch: towel
+Knödel: Dumpling
+Schlange: queue
+Fliege: : Fly (the insect) 
