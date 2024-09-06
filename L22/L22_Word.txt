@@ -62,8 +62,22 @@ eventuell: Possibly, maybe
 Eindruck: Impression
 Ente: Duck 
 Kreuz: Cross
-Getreide:
 Tuch: towel
 Knödel: Dumpling
 Schlange: queue
 Fliege: : Fly (the insect) 
+Sprichwort:  Proverb, saying
+Arten: Types, species
+Standpunkt: Point of view
+unterstützen:  To support
+vor.kommen: To occur, to happen, to appear ("ist vorgekommen")
+Rechnen: To calculate, to count
+notwendig: Necessary
+Passant: pedestrian
+tippen: type ("hat getippt")
+einige: several
+lösen: To solve, to resolve
+
+numfrage:
+stellte:
+folgende: 
