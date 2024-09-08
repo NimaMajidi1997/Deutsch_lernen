@@ -81,3 +81,5 @@ Wir müssen dieses Problem schnell lösen. #(We need to solve this problem quick
 Einige Bücher in der Bibliothek sind sehr alt. #(Some books in the library are very old.)
 Er tippt den Text auf der Tastatur. #(He types the text on the keyboard.)
 Einige Passanten fragten nach dem Weg zur nächsten Haltestelle. #(Some pedestrians asked for directions to the nearest bus stop.)
+Die folgenden Punkte müssen besprochen werden. #(The following points need to be discussed.)
+Die Ergebnisse der Umfrage zeigen, dass viele Menschen unzufrieden sind. #(The results of the survey show that many people are dissatisfied.)

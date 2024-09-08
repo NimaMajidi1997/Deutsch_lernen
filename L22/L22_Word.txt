@@ -74,10 +74,9 @@ vor.kommen: To occur, to happen, to appear ("ist vorgekommen")
 Rechnen: To calculate, to count
 notwendig: Necessary
 Passant: pedestrian
-tippen: type ("hat getippt")
+tippen: guess, type ("hat getippt")
 einige: several
 lösen: To solve, to resolve
-
-numfrage:
-stellte:
-folgende: 
+Umfrage:Survey
+stellen: place ("hat gestellt")
+folgende: The following
