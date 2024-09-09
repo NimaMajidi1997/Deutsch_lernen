@@ -80,3 +80,14 @@ lösen: To solve, to resolve
 Umfrage:Survey
 stellen: place ("hat gestellt")
 folgende: The following
+magische: Magical
+Würstchen: Sausage
+frisst: Eats (used for animals)
+Zahl: Number
+verdoppeln: to double
+Zugstrecke: Train route
+insgesamt: Overall, in total
+Verlust: loss
+Aktien: stocks
+Bankberater: Bank advisor
+Notendurschschnitt: Grade point average (GPA)
