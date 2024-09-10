@@ -91,3 +91,16 @@ Verlust: loss
 Aktien: stocks
 Bankberater: Bank advisor
 Notendurschschnitt: Grade point average (GPA)
+Hälft: half
+befriedigend:satisfactory
+ausreichend: sufficient
+mangelhaft: poor/insufficient
+ungenügend: unsatisfactory
+meisten: most
+wenigsten: least
+abgenommen:
+zugenommen:
+hat sich verändert:
+ist gleich geblieben:
+gestiegen:
+gesunken:
