@@ -98,9 +98,9 @@ mangelhaft: poor/insufficient
 ungenügend: unsatisfactory
 meisten: most
 wenigsten: least
-abgenommen:
-zugenommen:
+ab·nehmen: decrease ("hat abgenommen")
+zu·nehmen: increase ("zugenommen")
 hat sich verändert:
 ist gleich geblieben:
-gestiegen:
-gesunken:
+steigen: rise ("ist gestiegen")
+sinken: go down ("ist gesunken")
