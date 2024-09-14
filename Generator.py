@@ -136,10 +136,12 @@ def read_and_cluster(lesson_number, audio_gen, lines_per_group=20):
 
     clusters_txt_eng = [cluster.replace('(', '') for cluster in clusters_txt_eng]
     clusters_txt_eng = [cluster.replace(')', '') for cluster in clusters_txt_eng]
+    clusters_txt_eng = [cluster.replace('%', '\%') for cluster in clusters_txt_eng]
     clusters_txt_eng = [cluster.replace('\n', '\\\\') for cluster in clusters_txt_eng]
     #print(clusters_txt_eng)
     clusters_txt_flash = [cluster.replace('.', '. \n') for cluster in clusters_txt_de]
     clusters_txt_de = [cluster.replace('.', '. \\\\') for cluster in clusters_txt_de]
+    clusters_txt_de = [cluster.replace('%', '\%') for cluster in clusters_txt_de]
     #print(clusters_txt_de)
 
     lines = [line.split('#')[0].strip() for line in lines]
