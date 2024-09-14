@@ -104,3 +104,6 @@ hat sich verändert:
 ist gleich geblieben:
 steigen: rise ("ist gestiegen")
 sinken: go down ("ist gesunken")
+Übungen: Exercises
+Kursgebäude: Course building
+Fahrräder: Bicycles
