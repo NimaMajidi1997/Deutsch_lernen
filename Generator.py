@@ -74,6 +74,8 @@ def num_sentences():
         total_number.append(len(file.readlines()))
     with open('L22/L22_Sentence.txt', 'r') as file:
         total_number.append(len(file.readlines()))     
+    with open('L23/L23_Sentence.txt', 'r') as file:
+        total_number.append(len(file.readlines()))   
     return total_number
 
 def delete_unnecessary():
@@ -120,11 +122,13 @@ def read_and_cluster(lesson_number, audio_gen, lines_per_group=20):
     if lesson_number == 19:
         j = 1
     elif lesson_number == 20:
-        j = sentences_number[0]+1
+        j = sum(sentences_number[0:1])+1
     elif lesson_number == 21:
-        j = sentences_number[0]+sentences_number[1]+1
+        j = sum(sentences_number[0:2])+1
     elif lesson_number == 22:
-        j = sentences_number[0]+sentences_number[1]+sentences_number[2]+1
+        j = sum(sentences_number[0:3])+1
+    elif lesson_number == 23:
+        j = sum(sentences_number[0:4])+1
 
     lines_txt_eng = [line.split('#')[1] for line in lines] # separate Deutsch and English
     lines_txt_eng = [f'{j+i}: ' + line for i, line in enumerate(lines_txt_eng)] # add number for each sentence
