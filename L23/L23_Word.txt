@@ -9,3 +9,27 @@ Tierarten: Animal species
 streng: Strict
 schützen: to Protect ("hat geschützt")
 Löwe: Lion
+
+
+
+
+Segelschiff: Sailing ship
+unterwegs: On the way
+Einreisegenehmigung: Entry permit, Authorisation to enter the country 
+höher: Higher
+
+Überfahrt:
+
+zurückzahlen: To pay back
+Auftrag: order, mission, task, assignment
+Wohnungsbau: Housing construction
+an·treten: begin, start ("angetreten")
+Fremde: stranger, foreigner
+Auswanderen:
+Heim:
+Aussicht:
+Vergnügen:
+führt:
+Unglück:
+gerettet:
+Ferne:
