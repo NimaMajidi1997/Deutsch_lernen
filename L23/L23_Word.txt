@@ -26,6 +26,13 @@ führt: Leads, guides ("hat geführt")
 Unglück: Misfortune, accident
 retten: save from; rescue ("hat gerettet")
 Ferne: Distance, far away
-
-
-Überfahrt:
+überraschen: To surprise
+Löhne: Wages, salaries
+bestätigen: To confirm
+eigentümer: Owner
+leihen: borrow, lend ("hat geliehen")
+Gründe: Reasons
+mangel: Lack, shortage
+Arbeitsbedingungen: Working conditions
+Armut: Poverty
+zuletzt: Lastly
