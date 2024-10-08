@@ -41,7 +41,7 @@ annehmen: to accept, to assume
 bemühen: to make an effort
 Absicht: Intention, purpose
 aufzubauen: To build up, to establish
-tätig:  Active, employed, working
+tätig: Active, employed, working
 Überzeugung: Conviction, belief
 vor·stellen: vor·stellen ("hat vorgestellt")
 beantragen: apply for ("hat beantragt")
@@ -51,3 +51,12 @@ etliche: Several, quite a few
 Amtsweg: official procedure
 aufträge: Orders, assignments, tasks
 dutzende: Dozens
+verlieben: ("hat verlieben")
+kehren: return
+innerhalb: within
+
+
+
+Wann?
+innerhalb einesMonats / ... (genetive)
+innerhalb von zwei Monaten / ... (dative)

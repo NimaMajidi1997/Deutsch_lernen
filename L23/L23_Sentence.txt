@@ -55,3 +55,5 @@ Manchmal dauert der Amtsweg länger als erwartet. #(Sometimes the official proce
 Etliche Personen haben sich für das Event angemeldet. #(Quite a few people have registered for the event.)
 Der Chef hat mir heute drei neue Aufträge gegeben. #(The boss gave me three new assignments today.)
 Es gibt dutzende Möglichkeiten, dieses Problem zu lösen. #(There are dozens of ways to solve this problem.)
+Sie hat sich in ihren besten Freund verliebt. #(She fell in love with her best friend.)
+Innerhalb weniger Minuten kehrte die Ruhe in der Stadt zurück. #(Within a few minutes, calm returned to the city.)
