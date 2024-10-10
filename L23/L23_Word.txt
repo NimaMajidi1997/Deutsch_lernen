@@ -43,7 +43,7 @@ Absicht: Intention, purpose
 aufzubauen: To build up, to establish
 tätig: Active, employed, working
 Überzeugung: Conviction, belief
-vor·stellen: vor·stellen ("hat vorgestellt")
+vor·stellen: imagine, introduce ("hat vorgestellt")
 beantragen: apply for ("hat beantragt")
 erledigen: finish, complete ("hat erledigt")
 aus·füllen: fill in, complete, fill out ("hat ausgefüllt")
@@ -54,7 +54,15 @@ dutzende: Dozens
 verlieben: ("hat verlieben")
 kehren: return
 innerhalb: within
-
+Allerdings: However, indeed, though
+überleben: survive ("hat überlebt")
+Überfahrt: Crossing, passage (usually refers to a journey across water)
+einige: Some
+Schiffsbesitzer: Shipowner
+Speise: Food, dish
+anstrengend: Exhausting, tiring
+unterhaltsam: Entertaining, amusing
+damals: Back then, at that time
 
 
 Wann?
