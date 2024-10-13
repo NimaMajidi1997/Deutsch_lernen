@@ -63,6 +63,18 @@ Speise: Food, dish
 anstrengend: Exhausting, tiring
 unterhaltsam: Entertaining, amusing
 damals: Back then, at that time
+gering: Low, small, minimal
+niedrig: Low (often used for levels, prices, or amounts)
+Lebenshaltungskosten: Cost of living
+Haushaltsgeräte: Household appliances
+sparsam: Economical
+preiswert: Inexpensive, reasonably priced
+günstig: Affordable, favorable
+witzig: Funny
+sauber: Clean
+zuvärlässig: Reliable
+vernünftig: Sensible, reasonable
+
 
 
 Wann?
