@@ -74,9 +74,23 @@ witzig: Funny
 sauber: Clean
 zuvärlässig: Reliable
 vernünftig: Sensible, reasonable
-
+Entstehen: arise
+Gastgeber: host
+Festlegen: To determine, to set, to establish ("festgelegt")
+oberhalb: above
+unterhalb: below, bneath
+außerhalb: outside
+innerhalb: within
+Fluss: River
+Kreuzung:  Intersection, crossroads
+abbiegen: To turn
+Treffpunkt: Meeting point
 
 
 Wann?
 innerhalb einesMonats / ... (genetive)
 innerhalb von zwei Monaten / ... (dative)
+
+Während sie essen, suchen sie ein Couch im Internet.
+Nachdem sie gegessen haben, suchen sie ein Couch im Internet.
+Bevor sie essen, suchen sie ein Couch im Internet.
