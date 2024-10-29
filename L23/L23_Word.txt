@@ -85,6 +85,20 @@ Fluss: River
 Kreuzung:  Intersection, crossroads
 abbiegen: To turn
 Treffpunkt: Meeting point
+ziemlich: Quite, fairly, rather
+hinaus: Out, outside
+auf·wachsen: grow up ("ist aufgewachsen")
+Hafenstadt: Port city
+Strandbäder: Beach resorts
+Kreideküste: Chalk coast
+Schiff: Ship
+Kontinent: Continent
+steilen:
+Bergbach: mountain stream
+
+
+
+
 
 
 Wann?
