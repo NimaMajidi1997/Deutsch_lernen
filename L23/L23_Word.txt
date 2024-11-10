@@ -93,8 +93,23 @@ Strandbäder: Beach resorts
 Kreideküste: Chalk coast
 Schiff: Ship
 Kontinent: Continent
-steilen:
+steilen: Steep 
 Bergbach: mountain stream
+nerven: annoy, bother ("hat genervt")
+menschenleer: empty, uninhabited
+selten: rare, seldom
+Pflanze: plant
+hinauf: Up, upwards
+gegend: Area, region
+gletscher: glacier
+bergwiese: mountain meadow
+hügel: Hill
+Weinberg: Vineyard
+ufer: Shore
+rund: Round, approximately
+
+
+
 
 
 
