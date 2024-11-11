@@ -107,9 +107,23 @@ hügel: Hill
 Weinberg: Vineyard
 ufer: Shore
 rund: Round, approximately
+westlich: West, to the west of
+Ozean: Ocean
+grenze: border
+flach: Flat, level
+wiese: Meadow
+feld: Field
+mais: corn
 
-
-
+weizen:
+getreide:
+umgebung:
+tiefsten:
+geheimen:
+buchten:
+fischerdörfen:
+sandstränden:
+nennt:
 
 
 

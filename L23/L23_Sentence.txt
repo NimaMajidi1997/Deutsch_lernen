@@ -110,3 +110,8 @@ Auf dem Hügel steht ein kleines Haus. #(There’s a small house on the hill.)
 Von oben hat man einen wunderschönen Blick über den Weinberg. #(From above, there’s a beautiful view over the vineyard.)
 Der Tisch hat eine runde Form. #(The table has a round shape.)
 Am Ufer des Sees kann man gut spazieren gehen. #(You can take a nice walk along the lake's shore.)
+
+
+Westlich der Stadt gibt es einen großen Wald. #(To the west of the city, there is a large forest.)
+Der Ozean ist bei Sonnenuntergang wunderschön. #(The ocean is beautiful at sunset.)
+Die Stadt liegt nahe der Grenze. #(The city is close to the border.)
