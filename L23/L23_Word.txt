@@ -114,16 +114,13 @@ flach: Flat, level
 wiese: Meadow
 feld: Field
 mais: corn
-
-weizen:
-getreide:
-umgebung:
-tiefsten:
-geheimen:
-buchten:
-fischerdörfen:
-sandstränden:
-nennt:
+getreide: Grain / Cereal
+umgebung:  Surroundings / Environment
+tiefste: Deepest
+geheimen: Secret / Hidden
+bucht: bay
+sandstränden: Sandy beaches
+nennen: name ("hat genannt")
 
 
 
