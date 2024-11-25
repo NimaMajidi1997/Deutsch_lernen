@@ -121,7 +121,11 @@ geheimen: Secret / Hidden
 bucht: bay
 sandstränden: Sandy beaches
 nennen: name ("hat genannt")
-
+landschaft: Landscape / Scenery
+bergig: Mountainous
+Verändern:  To change / To alter
+Dschnugel: Jungle
+Nachbarstaaten:  Neighboring states / Neighboring countries
 
 
 
