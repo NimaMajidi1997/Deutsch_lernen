@@ -22,7 +22,8 @@ def gen_tex_file(sentences_de, sentences_eng):
         \usepackage{dictsym}
         \usepackage{bbding}
         \usepackage{hieroglf}
-         
+        \usepackage{times}
+
         \usepackage[a4paper, top=0.5in, bottom=0.25in, left=0.5in, right=0.5in]{geometry} % Adjust the margins here
 
         \begin{document}
