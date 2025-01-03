@@ -115,3 +115,6 @@ Subjekt 1 = Subjekt 2: damit oder um ... zu
 Ich habe einen fernseher gekauft, damit meine frau wieder ihre lieblingsserie sehen kann.
 Subjekt 1 != Subjekt 2: nur damit
 I bought a television so that my wife can watch her favorite series again.
+
+
+passive: was/were --> wurde/wurden
