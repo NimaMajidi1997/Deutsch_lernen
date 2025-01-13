@@ -39,7 +39,7 @@ täuschen: deceive, mislead ("hat getäuscht")
 Nahrungsmittel: Food
 wachsen: grow ("ist gewachsen")
 roh: raw
-kisten: box, crate
+kiste: box, crate
 ausleihen:  To borrow, to lend
 abwaschen: To wash
 aufstellen: To set up
@@ -88,7 +88,7 @@ verdoppeln: to double
 Zugstrecke: Train route
 insgesamt: Overall, in total
 Verlust: loss
-Aktien: stocks
+Aktie: stock
 Bankberater: Bank advisor
 Notendurschschnitt: Grade point average (GPA)
 Hälft: half
